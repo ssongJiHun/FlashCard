@@ -1,0 +1,208 @@
+<style type="text/css">
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        background: rgb(224, 224, 224);
+    }
+
+    #searchText {
+        border: none;
+        outline: none;
+        font-size: large;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    table {
+        border-spacing: 0px;
+        border-style: none;
+        padding: 0px;
+        width: 100%;
+        height: 100%;
+        border-bottom: solid rgb(29, 135, 221);
+    }
+
+    td {
+        border-spacing: 0px;
+        border-style: none;
+        padding: 0px;
+        margin: auto;
+    }
+
+    .layer {
+        background: white;
+        width: 97%;
+        margin: 0.5% auto;
+    }
+
+    
+    .none {
+        pointer-events: none;
+    }
+</style>
+<html>
+
+<head>
+    <title>dict</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+    <script src="http://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="res/admin/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="res/admin/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="res/admin/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="res/admin/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="res/admin/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="res/admin/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="res/admin/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="res/admin/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="res/admin/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="res/admin/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="res/admin/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="res/admin/favicon-16x16.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <script src="js/login.js"></script>
+</head>
+<script type="text/javascript">
+
+    $(document).ready(setup); // 1번
+    function setup() {
+
+        // down -> focus -> keyup
+        window.addEventListener("keydown", (event) => {
+            var id = $(':focus').attr('id');
+
+            if (event.keyCode == 38) { // 위
+                event.preventDefault();
+                event.stopPropagation();
+                fncSetTop(-10);
+            }
+            if (event.keyCode == 40) { // 위
+                event.preventDefault();
+                event.stopPropagation();
+                fncSetTop(10)
+            }
+            if (event.keyCode == 27 || (id == "answer" && event.keyCode == 9)) { // esc 또는 탭
+                event.preventDefault();
+                event.stopPropagation();
+                $("#searchText").focus();
+                document.body.scrollTop = 0;
+            }
+            if (id == "searchText" && event.keyCode == 13) {
+                event.preventDefault();
+                event.stopPropagation();
+                searchWord();
+            }
+            if (id == "answer" && event.keyCode == 13) {
+                event.preventDefault();
+                event.stopPropagation();
+                wordAdd();
+            }
+        });
+    }
+
+    function fncSetTop(n) {
+        var obj = document.getElementById('divFrm');
+	var offset = 150;
+	
+        if(n <= 0){
+            obj.scrollTop = offset;
+            return;
+        }
+        
+        if(obj.scrollTop+n <  offset)
+            return;
+
+        obj.scrollTop += n;
+        // obj.style.height = 240;
+        // obj.style.width = 220;
+    }
+    function searchWord() {
+        var word = $('#searchText').val();
+        if (word == '' || word == null)
+            return;
+
+        document.title = "dict_" + word;
+        $('#question').val(word);
+        $('#answer').val('');
+        $('#my_frame').attr('src', "https://en.dict.naver.com/#/search?range=all&query=" + word);
+
+        $('#dictionary').html( '<li style="color:green;"><b>'+word+'</b></li>');
+        var csvArr = ['1_total.txt', '1_high.txt'];
+        for (var i = 0; i < csvArr.length; i++) {
+            $.get('php\\include.php?mode=search&csv=' + csvArr[i] + '&word=' + word + '&href=true', function (res) {
+                $('#dictionary').html($('#dictionary').html() + "</br>" + res);
+                document.body.scrollTop = document.body.scrollHeight;
+            });
+        }
+        // $.getJSON('https://api.datamuse.com/words?rel_syn=' + $('#word').val(), function (res) {
+        //     $.each(res, function (index, entry) {
+        //         html += '<p><A href="https://dict.naver.com/search.dict?dicQuery=' + entry.word + '" target="_blank">' + entry.word + '</A></p>';
+        //     });
+        //     $('#dictionary').html(html);
+        // });
+    }
+    function wordAdd() {
+
+        var question = $('#question').val();
+        var answer = $('#answer').val();
+
+        if (question == "" || answer == "") {
+            alert("값 입력");
+            return;
+        }
+        var content = $('#wrong').val() + "^" + question + "^" + answer + "\r\n";
+
+        // $.get('php\\appendData.php?txtName=ee.txt&selected_index=5&content='+content, function (res) {
+        //     alert(res);              
+        // });
+
+        $.post('php\\appendData.php', { "txtName": "1_total.txt", "selected_index": "45", "content": content }, function (res) {
+            alert(res);
+            $('#searchText').val('');
+            
+            $('#searchText').focus();
+        });
+    }
+
+</script>
+</head>
+
+<body>
+
+    <table style="width: 100%; height: 6%; background: white;">
+        <td style="width: 5%; text-align: center;">
+            <img src="res/main/favicon-32x32.png" alt="">
+        </td>
+        <td style="width: 90%;">
+            <input type="text" id="searchText" placeholder="검색어를 입력해주세요." tabindex="1">
+        </td>
+        <td style="width: 5%;">
+            <img src="res/search.png" alt="">
+        </td>
+    </table>
+
+
+    <div class="layer none" id="divFrm" style="height:70%; overflow-x:hidden; overflow-y:hidden;">
+        <iframe id="my_frame" class="none" height="2000px" width="100%" src="" frameborder="1" style="border: none;" tabindex="-1"
+            scrolling='no' onload="fncSetTop(0)"></iframe>
+    </div>
+    </div>
+    <div class="layer">
+        <input type="number" id="wrong" value="0" style="width: 5%;" tabindex="-1">
+        <input type="text" id="question" placeholder="영어" style="width: 35%;" tabindex="-1">
+        <input type="text" id="answer" placeholder="한글" style="width: 35%;" tabindex="2">
+        <input type="button" id="addbtn" value="추가" style="width: 15%;" onclick="wordAdd()" tabindex="-1">
+    </div>
+    <div class="layer" id="dictionary" style="white-space: pre-line;">
+    </div>
+    <!-- <input type="hidden" id="txtName" name="txtName">
+    <input type="hidden" id="selected_index" name="selected_index">
+    <input type="hidden" id="content" name="content"> -->
+</body>
