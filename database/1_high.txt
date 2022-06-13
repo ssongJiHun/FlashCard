@@ -1,0 +1,2002 @@
+**1
+0^capacity^용량, 능력
+0^capture^포획하다, 사로잡다
+0^captivate^(~의 마음을)사로잡다
+0^anticipate^예상하다, 예측하다
+0^concept^개념
+0^conception^생각, 구상, 이해
+0^deceive^속이다
+0^receive^받다, 받아들이다
+0^receptive^수용적인
+0^accept^수락하다
+0^except^~을 제외하고
+0^capitalism^자본주의
+0^capitalist^자본주의자, 자본가
+0^cape^망토, 곶
+0^cabbage^양배추
+0^chief^주된, 최고 자리의
+0^achieve^달성하다, 이루다
+0^preceding^이전의, 앞선
+0^precedent^전례,판례, 이전의
+0^recede^물러나다, 약해지다
+0^recess^잠깐쉼(휴회), 잠깐쉬다
+0^proceed^계속하다, 진행하다
+0^exceed^넘다, 초과하다
+0^excessive^지나친, 과도한
+0^succed^성공하다
+0^accessible^접근가능한
+0^accessibility^접근 가능성
+0^predecessor^전임자, 선임자
+0^net^그물망, 순수익, 레이스
+0^educate^교육하다
+0^introduce^소개하다, 도입하자
+0^seduce^유혹하다
+0^induce^야기하다, 유도하다
+0^deduce^추론하다, 밝히다
+0^duct^도관, 관
+0^abduct^유괴하다, 납치하다
+0^conduct^수행하다, 지휘하다, 행동
+0^deduct^빼다, 제하다</br>deduce:추론하다
+0^duke^통치자, 공작
+0^ductile^잡아 늘일 수 있는, 연성의
+0^facility^편의시설, 쉬움, 기능
+0^fact^사실
+0^factual^사실에 기반을 둔
+0^factor^요소, 요인
+0^factorize^인수분해하다
+0^manufacture^제조하다, 생산하다
+0^affection^사랑, 애정
+0^affective^정서적인, 감적을 불러일으키는
+0^effect^영향, 효과
+0^effciency^효율
+0^defector^탈주자, 망명자
+0^infect^감염시키다
+0^artificial^인공의, 인조의
+0^sufficient^충분한
+0^profit^이익
+0^defeat^패배시키다.<->defect-결함,결손
+0^offer^제공하다, 제안하다
+0^transfer^옮기다, 이동하다, 환승하다
+0^refer^언급하다, 참조하다
+0^prefer^선호하다
+0^differ^다르다
+0^infer^추측하다, 추론하다
+0^fertile^비옥한
+0^fertilize^비료를주다, 수정시키다
+0^autograph^서명, 사인하다
+0^photograph^사진
+0^calligraphy^서예, 캘리그래피
+0^geography^지리학
+0^diagram^도표, 도형, 다이어그램
+0^program^프로그램, 계획, 과정
+0^telegram^전보, 전신
+0^projection^예상, 영상, 투사
+0^reject^거절하다
+0^inject^주입하다
+0^object^물체, 대상, 목적, 반대하다
+0^adjective^형용사
+0^jet^제트기
+0^prologue^프롤로그
+0^epilogue^끝맺음 말, 에필로그
+0^dialogue^대화
+0^monologue^독백, 긴 이야기
+0^geology^지질학
+0^admission^입학, 입장, 인정
+0^commission^위원회, 수수료
+0^emit^내뿜다, 방출하다
+0^remittance^송금, 납부
+0^transmit^전송하다, 전달하다
+0^mission^임무, 과제, 선교
+0^missionary^선교사, 선교의
+0^dismiss^일축하다, 해고하다
+0^promising^유망한, 전망이 좋은<->promise:약속하다
+0^dependent^의존하는 ,종속의
+0^dependence^의존, 종속
+0^expend^들이다, 소비하다<->expand-확장하다
+0^expenditure^지출, 소비, 소모
+0^expensive^비싼, 돈이 많이드는
+0^ponder^생각하다, 숙고하다
+0^pension^연금, 퇴직금
+0^complicate^복잡하게 만들다
+0^complication^문제, 합병증
+0^duplication^이중, 중복, 두배, 복사, 복제
+0^duplicator^복사기, 복제기
+0^duplex^복층아파트, 이중의
+0^replication^복제
+0^complicit^공모한, 연루된
+0^explicit^분명한, 솔직한
+0^reply^대답하다, 대응하다<->rely-신뢰하다<->relay:계주하다
+0^apply^적용하다, 신청하다, 지원하다
+0^applicant^지원자
+0^imply^내포하다, 암시하다, 뜻하다
+0^implication^내포, 암시
+0^employ^고용하다
+0^employment^고용, 채용
+0^employer^고용주
+0^exploitation^착취, 개발, 이용
+0^perplexity^당혹감
+0^complex^복잡한, 복합 건물, 단지
+0^complexly^복합적으로
+0^complexity^복잡성, 복잡함
+0^simplicity^간담함, 평이함
+0^multiple^많은, 다양한, 복합적인
+0^multiplex^멀티플렉스, 복합 상영관
+0^position^위치, 제자리, 두다,배치하다
+0^positive^긍적적인
+0^positivity^확실함, 적극성
+0^posture^제세, 태도, 자세를 취하다
+0^composer^작곡가
+0^component^구성요소, 부품
+0^ingredient^재료, 구성요소
+0^compound^합성물, 혼합하다, 합성하다, 악화하다
+0^disposable^일회용의
+0^expose^드러내다, 폭로하다=exposure
+0^impose^부과하다, 강요하다
+0^imposition^시행, 도입, 부담
+0^oppose^반대하다, 겨루다
+0^opponent^상대, 반대자
+0^propose^제안하다
+0^purpose^목적, 용도
+0^press^압력, 인쇄, 신문, 누르다, 압력을 가하다, 다림질하다
+0^compressible^압축할 수 있는
+0^depression^우울증
+0^depressive^우울증의
+0^express^표현하다, 나타내다, 급핵의, 신속한, 급행열차
+0^impression^인상, 감명
+0^impressive^인상적인 ,감명을주는
+0^oppressive^억압하는, 억압적인
+0^suppression^진압, 억제
+0^describe^묘사하다, 서술하다, 그리다
+0^description^서술, 묘사, 일부
+0^descriptive^묘사적인
+0^inscription^새겨진글, 비문
+0^prescription^처방전, 처방약, 규정
+0^subscribe^구독하다, 가입하다, 찬성하다
+0^subscriber^구독자
+0^subscription^구독료, 구독, 기부금
+0^script^대본, 글씨, 대본을 쓰다
+0^transcription^표기, 글로 옮김
+0^special^특별한, 특별한 것
+0^specialist^전문가, 전공가
+0^specialize^전공하다, 전문적으로 다루다
+0^especial^특별한
+0^especially^특히
+0^specific^구체적인, 명확한
+0^species^종, 종류
+0^specimen^견본, 표본
+0^speculative^추측에 근거한
+0^speculation^추측, 짐작
+0^inconspicuous^이목을 끌지 못하는
+0^aspect^측면, 양상, 방향
+0^expect^기대하다, 예상하다
+0^inspect^조사하다, 점검하다
+0^prospect^전망, 가능성, 예상, 탐사하다
+0^respect^존경, 존중, 측면, 사항, 존중하다
+0^retrospect^회상, 회고
+0^introspective^자기 성찰적인
+0^perspectively^투시 화법으로, 원근법으로(perspective:관점, 원근법, 전망)
+0^specter^유령
+0^aspiring^출세, 지향적인, 야심이 있는
+0^aspirin^아스피린, 해열제
+0^conspiracy^음모, 모의
+0^standard^수준, 기준, 표준의, 일반적인
+0^standardize^표준화하다
+0^substance^물질, 실체
+0^substantially^상당히, 많이, 대체로
+0^unstable^불안정한
+0^instability^불안정(=unstability)
+0^stagnation^침체, 불경기
+0^install^설치하다, 취임시키다
+0^state^상대, 국가, 주 , 국가의, 말하다, 진술하다
+0^stateman^정치인
+0^statistics^통계학, 통계 자료
+0^statistical^통계적인, 통계에 근거한
+0^statistically^통계적으로
+0^static^고정된, 정전기
+0^station^역, 정류장, 장소, 주둔시키다, 배치하다
+0^statue^조각상
+0^stay^머무르다, 방문
+0^constant^끊임없음, 변함없는
+0^distant^먼, 떨어져 있는
+0^distance^거리
+0^distantly^멀리, 떨어져서
+0^instantly^즉각, 즉시
+0^obstacle^장애, 장애물
+0^ecstasy^황홀경, 황홀감
+0^steady^꾸준한, 변함없는
+0^rest^휴식, 나머지, 쉬다
+0^arrest^체포하다, 저지하다, 끌다
+0^contrastive^대조적인
+0^cost^값, 비룔
+0^costly^큰 비용이 드는
+0^system^제도, 시스템
+0^assistance^도움, 원조, 지원
+0^exist^존재하다, 실존하다
+0^existing^기존의
+0^existence^존재, 실재
+0^existent^존재하는, 실존하는
+0^insist^고집하다, 주장하다
+0^insistent^고집하는, 계속되는
+0^resistance^저장, 항거
+0^resistant^저항력 있는, 저항하는
+0^irresistible^저항할 수 없는, 매혹적인
+0^constitutive^구성요소인, 구성적인
+0^institution^기관, 단체, 협회
+0^substitution^대리, 대용
+0^superstitious^미신적인
+0^contain^포함하다, 억누르다,
+0^container^컨테이너, 그릇, 용기
+0^entertain^즐겁게하다, 접대하다
+0^entertainment^오락, 여흥, 접대
+0^entertainer^연예인
+0^entertaining^재미있는, 즐거움을 주는
+0^maintain^유지하다, 지키다, 주장하다
+0^maintenance^유지, 정비, 부양비
+0^retention^보유, 유지, 잔류
+0^sustainable^지속 가능한
+0^abstention^기권, 자제하다
+0^contented^자족[만족]해하는
+0^continue^계속하다, 이어지다
+0^intercontinental^대륙 간의
+0^transcontinental^대륙 횡단의
+0^abstracted^정신이 딸린(abstract:관념,추상)
+0^abstractive^추상적인
+0^abstraction^관념, 추상적 개념
+0^attractive^매력적인
+0^attraction^끌림, 명소
+0^distraction^주의 산만, 오락
+0^track^길, 자국, 추척하다
+0^tracker^추척하다, 사냥꾼
+0^trace^자취, 발자국, 추척하다
+0^vision^시력, 시야
+0^visit^방문하다
+0^advise^조언하다
+0^revise^수정하다, 개정하다
+0^supervise^감독하다, 관리하다
+0^evident^명백한, 분명한
+0^evidence^증거
+0^evidently^분명히, 눈에 띄게
+0^provision^공급, 제공, 식향
+0^interview^면접, 인터뷰, 면접을 보다
+0^interviewer^면접관
+0^interviewee^면접대상자
+0^preview^시사회, 예고편, 시연하다, 간단히 소개하다
+0^review^검토, 논평, 복습하다
+0^witness^목격자, 증인, 목격하다
+0^react^반응하다
+0^reactive^반응이 빠른
+0^exactly^정확히, 틀림없이
+0^actual^실제의, 진짜의
+0^actually^실제로, 정말로
+0^actuality^현실, 실제
+0^active^활동적인
+0^alterantive^대안, 대체, 대안가능한
+0^amateur^아마추어, 취미로하는
+0^amiably^붙임성있게
+0^enemy^적군
+0^annual^매년의, 일년간의
+0^anniversary^기념일
+0^adapt^적응시키다, 각색하다
+0^adaptation^적응, 각색
+0^army^군대
+0^arm^팔, 무장하다
+0^arms^무기
+0^fright^두려운, 공포, 놀라운
+0^artist^예술가, 화가
+0^artistic^예술의, 예술적인
+0^astronaut^우주 비행사
+0^astronomy^천문학
+0^astrology^점성술
+0^disaster^재난
+0^disastrous^피해가 막심한, 비참한
+0^audience^관객, 청중, 시청자
+0^audition^심사, 오디션
+0^barrel^통, 배럴<단위>
+0^barn^외양간, 헛간, 차고
+0^barricade^장애물, 막다, 방어벽을 치다
+0^embarrass^당황하게 하다
+0^base^기초, 토대, 근거지를 두다
+0^basis^근거, 기준, 기반
+0^basic^기본적인
+0^basically^기본적으로
+0^basement^지하층, 지하실
+0^baseline^기준치, 기준선
+0^bat^방망이
+0^batter^타자, 난타하다
+0^combat^전투, 싸움, 싸우다
+0^combatant^전투원
+0^combative^전투적인
+0^battle^전투, 싸움
+0^battlefront^전선
+0^board^판자, 이사회, 하숙, 식사, 게시판, 탑승하다
+0^onboard^선상의 ,탑승한
+0^overboard^배 밖으로
+0^break^깨다, 부수다, 고장나다, 쉬다, 파손, 휴식, 중지
+0^breakdown^고장, 분해 명세서
+0^breakfast^아침식사
+0^breakthrough^돌파구
+0^brake^브레이크, 제동장치
+0^brick^벽돌
+0^campaign^캠페인, 운동
+0^campus^대학 교정
+0^campsite^야영지
+0^champion^챔피언, 우승자
+0^cannon^대포, 세계충돌하다, 대포를 쏘다
+0^canyon^협곡
+0^channel^채널, 주파수대, 물길
+0^carry^나르다, 운반하다
+0^carriage^탈 것, 마차, 운반, 수송
+0^carrier^운송 회사(항공사), 보균자, 운반 용기
+0^charge^요금, 기소, 비난, 책임, 청구하다, 비난하다, 기소하다
+0^cast^던지다, (그림자를)그리우다, 배역을 맡기다, (시건을)돌리다, 출연지, 거푸집, 던지기
+0^broadcast^방송하다, 방송
+0^central^중심의, 가장 중요한
+0^centrality^중심적, 위치, 구심점
+0^centralize^중앙집권화하다
+0^heart^심장, 가슴, 마음
+0^core^심, 속, 중심부
+0^nucleus^핵, 세포핵, 중심, 핵심
+0^concentrate^집중하다, 전념하다
+0^eccentricity^기이한 행동
+0^discernible^인식할 수 있는
+0^discerning^안목이있는
+0^crime^범죄
+0^crisis^위기
+0^criticize^비난하다, 비판하다, 비평하다
+0^critic^비평가
+0^certainly^틀림없이, 분명히
+0^certainty^확실한 것, 확실성
+0^certification^증명, 인증
+0^accidental^우연한, 돌발적인
+0^accidentally^우연히, 뜻하지않게
+0^incidentally^우연히, 덧붙여 말하자면
+0^coincide^동시에 일어나다
+0^coincidence^(우연의)일치, 동시에 일어난 사건
+0^Occidentalism^서양식, 서양 문화
+0^suicide^자살, 자살의
+0^decide^결정하다, 결심하다
+0^decision^결정
+0^descisive^결정적인, 결단력있는
+0^circular^원형의, 둥근, 순회하는, 안내문, 전단
+0^circulate^순환하다, 순환시키다, 유포하다
+0^circus^서커스, 원형광장, 원형 극장
+0^citation^인용구, 표창장, 인용
+0^excitement^흥분, 자극
+0^exciting^흥미진진한, 자극하는
+0^civically^시민으로서, 시민답게
+0^civil^시민의, 민간의, 예의바른
+0^civilian^민간의
+0^exclaimation^감탄, 감탄사
+0^proclaim^알리다, 선언하다, 선포하다
+0^proclamation^선언서, 성명서, 선포
+0^acclaimed^찬사받는
+0^declination^기움, 경사
+0^inclination^성향, 경향
+0^climate^기후, 분위기, 풍조
+0^close^닫다, 끝내다, 끝, 종결, 가까운, 친한, 가까이
+0^closing^마무리짓는, 폐쇄
+0^disclosure^폭로, 발혀진 사실
+0^conclusion^결론, 판단
+0^conclusive^결론적인, 확실한
+0^exclusion^제외, 배제, 차단
+0^inclusion^포함, 포함된 것
+0^inclusive^포함된
+0^cognitively^인지적으로, 인식에 의해
+0^recognition^인정, 인식, 평가
+0^recognizable^인식할 수 있는
+0^diagnosis^진찰, 진단, 식별
+0^diagnostic^진단상의, 진단에 쓰이는
+0^ignore^무시하다, 못 본 척하다
+0^ignorance^무지, 무식
+0^ignorant^무지한, 무식한
+0^notice^경고, 공고문, 알아차리다, 주목하다
+0^noticeable^눈에 띄는, 주목할 만한
+0^notification^알림, 통지
+0^notional^개념상의, 관념상의
+0^community^사회, 공동체, 단체
+0^communicate^의사소통하다, 대회하다, 통신하다
+0^common^공통의, 흔한, 일반적인
+0^commonality^공통성, 공용성, 일반 시민
+0^cordially^다정하게, 진심으로
+0^courageous^용기있는
+0^corporate^기업의, 회사의, 공동의
+0^corporation^기업, 회사, 법인
+0^incorporated^법인 조직의
+0^count^수를 세다 ,계산하다, 포함하다, 간주하다 중요하다, 셈, 계산
+0^coutless^많은, 셀 수 없는
+0^counter^계산대, 반대의, 반대로 ,반박하다, 대응하다
+0^accountable^설명할 수 있는, 책임이 있는
+0^cover^덮다
+0^cover^덮다, 다루다, 포함하다, 덮개, 표지
+0^recover^회복하다, 되찾다, 복구하다
+0^recovery^회복, 회수, 재생
+0^recoverable^회복가능한
+0^discovery^발견
+0^create^창조[창작]하다, 만들다
+0^creature^탄생물, 생명체, 창조물
+0^creative^창의적인, 창조적인
+0^recreate^재현하다[되살리다], 기준전환을 하다
+0^increase^증가하다, 늘리다, 증가 인상
+0^increasingly^점점, 점차적으로
+0^decrease^감소하다, 감소시키다, 감소, 축소
+0^concrete^구체적인, 콘트리트, 실체가 있는
+0^credible^믿을 수 있는, 확실한
+0^incredible^엄청난, 믿을 수 없는
+0^cultivate^기르다, 재배하다, 연마하다
+0^cultivation^경장, 재배, 함양
+0^culture^문화, 교양, 재배
+0^cultural^문화의, 교양의
+0^agriculture^농업
+0^agricultural^농업의
+0^currently^현재, 지금
+0^concurrence^동의, 의견 일치, 동시 발생
+0^concurrent^공존하는, 동시에 발생하는
+0^occurrence^발생, 양상, 사건
+0^recur^재발하다, 되돌아가다
+0^recurrence^반복, 재발
+0^recurrent^반복되는, 재발되는
+0^cure^치료하다, 고치다, 치료법
+0^curiosity^호기심
+0^accuracy^정확, 면밀
+0^accurately^정확히, 정밀하게
+0^damage^손상, 피해, 손해 배상금, 피해를 주다 ,훼손하다
+0^democracy^민주주의, 민주 국가
+0^democratic^민주주의의 민주적인, 평등한
+0^autocracy^독재정치
+0^dictation^받아쓰기, 지시
+0^dictionary^사전
+0^predict^예측하다, 전망하다
+0^predictable^예언할 수 있는, 당연한
+0^contradictory^모순되는
+0^dedicate^헌신하다, 바치다, 전념하다
+0^indication^표시, 징후
+0^indicator^지표, 예측
+0^doctor^의사, 박사, 선생
+0^doctrine^원리, 교리, 가르침
+0^document^문서, 파일, 기록하다
+0^documentation^기록, 문서화
+0^donate^기부하다, 기증하다
+0^pardon^사면, 용서
+0^dose^복용량
+0^equal^같은, 동일한, 평등한, ~와 같다, 필적하다
+0^equation^동일시, 등식, 방정식
+0^eqivalence^등가, 동등
+0^equivocal^애매한, 분명하지 않은
+0^equivocation^얼버무리기
+0^adequate^적절한, 충분한
+0^adequacy^적절, 타당성
+0^inadequate^불충분한, 부적당한
+0^present^현재의, 참석한, 수여하다, 보여주다, 발표하다, 선물, 현재
+0^presence^존재, 참석, 영향력</br>present-현재의,참석한(=있는),선물, 현재
+0^presentation^발표, 설명, 프레젠테이션
+0^representation^묘사, 대표
+0^absence^불참, 부족, 결석
+0^absentee^결석자, 부재자
+0^esteemed^존중받는, 호평 받는
+0^estimated^추정되는, 대략적인
+0^estimation^평가, 예상치, 견적
+0^overestimate^과대평가하다, 높이 쳐주다, 과대평가
+0^underestimate^과소평가하다, 깔보다
+0^fable^우화, 꾸며낸 이야기
+0^fabulous^멋진, 굉장한</br> frivolous-경박한, 시시한
+0^fame^명성, 유명세
+0^famous^유명한
+0^infant^유아, 유아의
+0^infancy^유아기, 초기
+0^infantile^어린애같은
+0^confession^자백, 고백
+0^professional^직업의, 전문적인
+0^professor^교수
+0^fallacy^오류
+0^fallacious^잘못된, 틀린
+0^false^틀린, 사실이 아닌, 가짜의
+0^falsify^위조하다
+0^falsehood^허위, 거짓말
+0^fail^실패하다, 낙제하다
+0^failure^실패(자)
+0^fault^잘못, 책임, 단점, 결함
+0^fare^(교통)요금, 승객, 잘못, 더 잘하다
+0^farewell^작별(인사)
+0^welfare^행복, 복지
+0^defend^방어하다, 수비하다, 옹호하다
+**2
+0^defense^방어, 변론
+0^defensive^방어의, 방어적인
+0^fence^울타리 ,장애물, 울타리를 치다
+0^offense^위반, 공격, 무례
+0^offensive^모욕하다, 공격적인
+0^festival^축제, 기념제
+0^federal^연방 정부의, 연방제의
+0^filament^필라멘트, 가는 실
+0^file^파일, 서류철, 문서를 보관하다, 소송걸다
+0^final^마지막의, 최종의 ,결승, 기말고사
+0^finally^(부)마침내, 마지막으로
+0^finalist^결승 진출자
+0^financial^금융의
+0^finish^끝내다, 마치다, 마지막 부분
+0^infinite^무한한, 한계가 없는
+0^infinity^무한성, 무한대
+0^refine^정제하다, 개선하다
+0^refinement^정재, 개선, 개량
+0^definition^정의, 의미
+0^firm^회사, 딱딱한, 단단한, 확실한, 단단하게 만들다
+0^confirm^확정하다, 사실임을 보여주다
+0^affirmation^학언, 단언, 확인
+0^reflect^반사하다, 비치다, 반영하다, 숙고하다
+0^reflection^(거울에 비친)반사, 반영, 숙고
+0^reflective^사색적인, 반사하는
+0^flexible^신축성 있는, 유연한, 융통성있는
+0^flexibility^구부리기 쉬움, 유연성, 융통성
+0^affliction^고통
+0^fluid^액체, 유동체, 부드러운, 유동적인
+0^influenza^감기
+0^form^형태, 서식, 형성하다
+0^formation^형성, 구조
+0^reform^개혁하다, 개혁, 개선
+0^reformation^개혁, 개선
+0^re-formation^재구성, 재편성
+0^conformity^따름, 순응
+0^formulaic^정형화된, 관습적인
+0^fort^요새, 주둔지
+0^effortless^힘 들이지 않는
+0^comfort^안락, 편안, 위로, 편안하게 하다, 위로하다
+0^comforable^안락한, 편안한
+0^force^힘, 물리력, 군대, 강요하다
+0^forceful^강력한, 단호한
+0^forced^강제적인, 강요된
+0^fragile^부서지기 쉬운
+0^fund^자금, 지금, 자금을 대다
+0^fundamentalism^근본주의
+0^profundity^깊이, 심오함, 난해함
+0^profoundly^깊게, 극심하게
+0^fuse^녹이다, 융합시키다, 융해하다, 퓨즈, 도화선
+0^fusion^연합, 융해, 통합
+0^diffuser^살포기, 확산기, 방향제
+0^infusion^주입, 달여낸 차[약]
+0^regard^여기다, ~에 주의를 기울이다, 관심, 배려
+0^regardless^개의치 않고, 상관없이
+0^guard^경비, 경호원, 보호다
+0^guardian^수호자, 후견인
+0^generate^발생시키다, 만들어 내다
+0^generally^일반적으로, 보통
+0^gentleman^신사
+0^ingenuity^독창성
+0^genuine^진짜의, 진품의 진실한</br>genius-천재의
+0^gene^유전자
+0^genetic^유전의, 유전학의
+0^genetics^유전학
+0^gender^성별
+0^homogeneous^동종의
+0^homogeneity^동종성, 균질성
+0^gesture^몸짓, 제스처
+0^degrade^비하하다, 강등시키다, 저하하다
+0^downgrade^격하시키다, 떨어뜨리다, 내리막
+0^gradually^점차, 서서히
+0^graduate^졸업하다, 졸업자
+0^gradation^단계적인 변화, 눈금, 명암
+0^degree^등급, 학위, 정도, 도
+0^aggressive^공격적인
+0^grateful^감사하는, 고마워하는
+0^congratulate^축하하다
+0^agree^동의하다, 협의하다
+0^agreeable^기분좋은, 쾌활한, 선뜻 동의하는
+0^disagree^의견이 다르다, 동의하지 않다
+0^graceless^품위없는, 예의 없는
+0^gravity^중력
+0^aggravate^악화하다, 가중시키다
+0^grieve^슬퍼하다, 애도하다
+0^habit^습괍, 버릇, 관습
+0^habitual^습관적인
+0^dwell^살다, 거주하다
+0^forbid^금지하다
+0^handy^편리한, 손재주 있는
+0^handicap^불리한, 조건, 장애, 핸디캡
+0^handcuff^수갑, 수갑을 채우다, 구속하다
+0^handful^한 줌, 움큼, 몇 안되는 수
+0^handle^처리하다, 다루다, 손잡이
+0^happy^행복한, 기쁜
+0^happily^행복하게, 다행히
+0^happiness^행복, 기쁜
+0^happen^벌어지다, 발생하다
+0^heal^치유하다, 낫게하다, 고치다
+0^health^건강
+0^healthful^건강에 좋은
+0^healthy^건강한
+0^whole^전체의, 모든, 완전한
+0^wholly^전적으로
+0^wholeness^전체, 총체
+0^hertiage^(문화)유산, 전통
+0^inheritance^상속받은 재산, 유산
+0^horror^공포, 경악
+0^horrific^끔찍한, 무서운
+0^abhor^혐오하다
+0^abhorrent^혐오스러운
+0^host^주인, 주최, 진행자, 주최하다, 진행하다
+0^hostel^호스텔, 숙박업소, 쉼터
+0^humble^겸손한, 비천한, 변변찮은, 겸손하게 만들다
+0^idea^생각, 발상, 개념
+0^ideal^이상, 이상적인 ,완벽한
+0^ideally^이상적으로
+0^idealize^이상적인 것으로 만들다
+0^idealistic^이상주의적인
+0^peninsula^반도
+0^insulate^단열, 처리하다, 격리하다</br>insinuate:암시하다[넌지시 말하다], 환심을 사다
+0^insulation^절연, 단열재
+0^exit^출구, 퇴장, 나가다
+0^transition^이행, 과도, 변천
+0^initially^시초에, 원래, 처음에
+0^journal^(정기 간행) 잡지, 학술지, 일기
+0^juncture^연결점, 시점
+0^conjunction^결합, 연관, 접속사
+0^join^연결하다, 가입하다, 합류하다
+0^justify^정당화하다, 증명하다
+0^adjust^조정하다, 적응하다, 바로잡다
+0^adjustment^조정, 적응, 조치
+0^judge^판사, 판단하다, 평가하다
+0^jurisdiction^사법권
+0^evaluate^평가하다, 감정하다, 심사하다
+0^assess^재다, 평가하다
+0^kinship^친족, 연대감
+0^kind^종류, 친절한
+0^kindergarten^유치원
+0^kidnap^유괴하다, 납치
+0^labor^노동, 노력, 노동하다
+0^elaborate^정교하게 만들다, 자세히 말하다, 정성을 들인
+0^collaborate^협력으로하다, 공동으로 하다
+0^lave^씻다, 물에 담그다
+0^laundry^세탁, 빨랫감
+0^relax^쉬다, 긴장을 풀다
+0^delay^연기하다, 늦추다, 지연, 지체
+0^release^풀다, 내보내다, 발표하다, 석방하다, 출시
+0^recollect^기억하다, 회상하다(recall)
+0^elect^선출하다, 선택하다, 결정하다
+0^lecture^강연, 강의, 강의하다, 설교하다
+0^lecturer^강연자
+0^lesson^수업, 교습, 강의
+0^sermon^설교, 강론
+0^legal^법적인, 법률상의
+0^elevator^승강기, 엘레베이터
+0^relevance^관련성, 타당성
+0^liberty^자유, 해방
+0^deliver^배달하다, 산출하다
+0^delivery^배달
+0^liability^의무, 책임
+0^league^리그, 연합, 수준
+0^rely^의지하다, 신뢰하다, 믿다
+0^reliable^신뢰할 수 있는
+0^reliability^신뢰도, 확실성
+0^eliminate^없애다, 제거하다, 배제하다
+0^limitless^무제한의
+0^linline^선선, 라인, 줄을 서다
+0^linear^선으로 된, 직선의
+0^lining^안감, 내벽, 줄무늬
+0^deadline^기한, 마감일
+0^outline^윤곽, 개요, 윤곽을 그리다
+0^headline^표제, 주요 뉴스
+0^streamline^유선형, 간소화하다
+0^language^언어, 말
+0^linguist^언어학자
+0^linguistic^언어학의, 언어학
+0^bilingual^두 개의 언어를 구사하는 사람
+0^literally^문자 그대로, 정말로, 그야말로
+0^illiterate^글을 모르는, 문맹의
+0^local^지역의, 현지의, 주민, 현지인
+0^locally^어떤 지방에서, 장소적으로
+0^localization^현지화, 국한, 부위
+0^locate^두다, 설치하다, 위치를 알아내다
+0^distribute^나누다, 분배하다,할당하다
+0^relocate^재배치하다, 이전하다
+0^length^길이, 기간
+0^along^[전]~을 따라, [부사]앞으로 함께
+0^allude^넌지시 말하다, 암시하다
+0^illumination^빛, 전등, 조명
+0^lunar^달의, 음력의
+0^solar^태양의, 양력의
+0^magnification^확대, 배율
+0^magnitude^규모
+0^mega^매우 큰, 대규모의
+0^maximization^최대화, 극대화
+0^maximum^최대의, 최고의, 최대
+0^mandatory^의무적인
+0^command^명령, 지휘, 명령하다
+0^demand^요구, 구요, 요구하다
+0^demanding^요구가 큰, 부담이 큰
+0^recommend^추천하다, 권고하다
+0^recommender^추천인
+0^recommendation^추천, 권고, 추천장
+0^manually^수동으로, 손으로
+0^material^물질, 재료, 물질적인
+0^metropolis^대도시
+0^mechanic^정비사
+0^medium^중간의, 매체
+0^mediation^중재, 조정, 매개
+0^mediterranean^지중해의
+0^midnight^자정, 한방중
+0^medical^의료의, 의학의
+0^medic^의사, 의대생
+0^medically^의학적으로
+0^medicine^약, 의술, 의학
+0^remedy^해결책, 치료, 바로잡다, 개선하다
+0^memory^기억, 기억장치
+0^memorable^기억할만한, 인상적인
+0^remember^기억하다, 상기하다
+0^mention^말하다, 언급하다
+0^commentator^해설자
+0^remind^상기시키다
+0^market^시장, 상가, 팔다, 거래하다
+0^marketplace^시장, 장터
+0^emerge^나타나다, 떠오르다
+0^emergence^출현, 발생, 등장
+0^submerge^잠수하다, 담그다
+0^immersion^담금, 잠금, 몰입
+0^diameter^직경, 지름
+0^immigrant^이주민, 이민자
+0^immigration^이민, 입국심사
+0^emigrate^이민을 가다
+0^emigration^이주, 망명
+0^minus^영하의, 부정적인 [전] ~을 제외한, 뺀
+0^minimum^최소, 최저
+0^administer^관리하다, 운영하다
+0^dwindle^(점점)줄어들다
+0^moderate^완화시키다다, 적당한, 온건한
+0^moderately^적당하게(척도에 맞는)
+0^modern^현대의, 오늘달
+0^modify^변경하다, 수정하다(척도에 맞게 만들다)
+0^accommodate^수용하다, 편하게 대하다
+0^immortal^불멸의</br>immoral:부도덕한
+0^mortgage^저당, 융자, 저당 잡히다
+0^mortification^고행, 금욕, 굴욕
+0^motive^동기, 이유, 목적, 움직이게 하는
+0^emotion^감정
+0^promote^홍보하다, 촉진하다, 승진시키다
+0^remote^멀리, 떨어진, 원격의
+0^motor^모터, 자동차, 동력을 일으키는, 자동차의
+0^motorist^운전자
+0^mobile^이동하는, 이동성의
+0^remove^제거하다, 치우다
+0^commotion^소란, 소동
+0^momentum^탄련, 가속도, 운동량
+0^amount^양, 금액, ~에 달하다
+0^quantity^양, 다량
+0^volume^용량, 부피
+0^paramount^가장 중요한, 최고의
+0^eminent^저명한, 탁월한
+0^prominence^중요성, 유명함
+0^commute^통근하다, 교환하다, 통근(회사와 바꾸다)
+0^nation^국가, 국민, 민족
+0^national^국가의
+0^international^국제적인
+0^multinational^다국적의
+0^nationality^국적, 민족
+0^nationalism^민족주의
+0^innate^타고난, 선천적인
+0^navigate^향해하다, 길을 찾다
+0^navigation^향해, 네비게이션
+0^navy^해군, 남색의
+0^naval^해군의, 해상의
+0^nausea^메스꺼움, 구역질, 뱃멀미
+0^negative^부정적인
+0^negotiate^협상하다, 넘다, 성사시키다
+0^neutralize^무료화시키다, 중립국으로 만들다
+0^neutrality^중립
+0^deny^부정하다, 부인하다
+0^denial^부정, 거부
+0^nerve^신경, 용기, 뻔뻔스러움
+0^nervousness^신경과민, 초조
+0^pronoun^대명사
+0^abnormal^비정상적인
+0^announce^발표하다, 알리다, 밝히다
+0^renouncement^포기, 부인, 거절, 부정, 절교, 절연
+0^novel^소설, 새로운, 신기한
+0^novelty^새로움, 참신한
+0^renovation^수리, 쇄신
+0^numeral^숫자, 수사
+0^nutrition^영양, 영양 섭취
+0^nurture^키우다, 기르다, 양성하다
+0^nurturer^양육하는 사람
+0^operate^운영하다, 작동하다, 수술하다
+0^operator^운영자, 관계자
+0^office^사무소, 회사
+0^officer^장교, 경찰관, 공무원, 임원
+0^optic^눈의, 시력의, 광학의
+0^optical^시작적인
+0^subordinate^부하의, 부수적인, 복종시키다, 무시하다
+0^subordination^복종, 종속
+0^organ^장기, 기관
+0^organize^조직하다, 구성하다, 준비하다
+0^organization^조직, 단체, 기구
+0^surgeon^외과 의사, 외과 전문의
+0^surgical^수술의, 외과의
+0^synergy^시너지 효과
+0^origin^기원, 태생, 시작
+0^original^원래의, 독창적인, 원본
+0^oriental^동양의
+0^orientation^방향, 오리엔테이션
+0^abortion^유산, 낙태
+0^company^회사, 단체, 친구(함께 빵을 나눠 먹다)
+0^pastel^파스텔
+0^comparison^비교
+0^comparable^비교할 만한, 피적하는
+0^paragraph^단락, 문단, 짧은 글
+0^partial^부분적인, 편파적인
+0^partially^부분적으로
+0^particular^특정한, 특별한, 까다로은
+0^particularly^특히, 특별히
+0^apart^떨어진, 구별되는, 떨어져, 따로
+0^apartness^떨어져 있음
+0^parcel^소포, 꾸러미, 구획
+0^package^소포
+0^pass^통과하다, 지나가다, 합격, 통과, 통행권
+0^passenger^승객
+0^passport^여권
+0^patient^참을성 있는, 환자
+0^patiently^참을성 있게, 끊기 있게
+0^patience^참을성
+0^passiveness^수동적임, 소극적임
+0^patriot^애국자
+0^patriotism^애국심
+0^patron^후원자, 단골손님
+0^patronize^후원하다, 생색내다
+0^pedestrian^보행자, 보행의, 도보의, 평범한
+0^pedicure^발 관리, 페디큐어
+0^tripod^삼각대
+0^tripodal^삼각의, 발이 세 개인
+0^compel^강요하다
+0^compulsion^강요
+0^propeller^프로펠러
+0^appeal^호소, 매력, 호소하다, 간청하다
+0^punish^처벌하다, 혼내다
+0^pain^통증, 고통, 고통을 주다
+0^experience^경험, 체험, 겪다, 경험하다
+0^experiential^경험상의, 경험에 의한
+0^expertise^전문지식, 기술
+0^hazard^위험, 추측하다, 위험을 무릅쓰다
+0^competitive^경쟁력을 지닌
+0^appetite^식욕, 의욕
+0^appetizer^식욕을 돋우는 것
+0^repeat^반복하다
+0^emphasize^강조하다, 중요시하다
+0^emphasis^강조, 중점
+0^phase^단계, 상, 국면
+0^phantom^유령, 환상의, 상상의
+0^phenomenon^현상, 사전, 진기한 물건
+0^megaphone^확성기
+0^phonics^파직스, 발음 중심 교수법
+0^deplete^고갈하다, 대폭 감소시키다
+0^depletion^고갈, 소모
+0^accomplishment^업적, 공적, 재주
+0^deplore^개탄하다, 슬퍼하다
+0^explore^탐험하다, 탐구하다(밖에 크게 외치다=탐구)
+0^exploratory^탐험의, 탐사의
+0^appoint^임명하다, 지정하다, 예약하다
+0^appointment^약속, 예약, 임명, 지정
+0^disappointed^실망한
+0^disappointing^실망시키는
+0^population^인구, 사람들
+0^popular^인기 있는, 유명한, 대중의
+0^public^대중의, 공공의, 대중, 국민
+0^publicize^알리다, 홍보하다
+0^publicist^홍보 담당자
+0^republic^공화국, 공화국의, 공화주의의
+0^monarchy^군주제
+0^oligarchy^과두제 정부(소수의 사람이 독점하는 것)
+0^portability^휴대성
+0^portal^웅장한 정문, 시작, 포털사이트
+0^portfolio^서류가방, 작품집, 투자자산구성
+0^exportable^수출할 수 있는
+0^report^보도하다, 보고하다, 보고
+0^support^지지하다, 후원하다, 지지, 후원
+0^supportive^지원하는, 힘을 주는
+0^supportable^지원할 수 있는
+0^transport^수송, 수송 수단, 수송하다
+0^potential^가능성이 있는, 잠재적인, 가능성, 잠재력
+0^potentially^잠재적으로
+0^possible^가능한, 있을 수 있는
+0^impossible^불가능한
+0^apprehend^파악하다, 체포하다
+0^apprehension^우려, 불만, 체포
+0^comprehension^이해력
+0^comprehensible^이해할 수 있는
+0^prision^감옥, 교도소, 투옥하다
+0^prime^제 1의, 주요한, 최고의, 전성기
+0^prince^왕자, 제후, 공작
+0^priority^우선 사항, 우선권
+0^private^사적인, 개인 소유의
+0^privately^남몰래, 개인적으로는
+0^privacy^사생활
+0^privilege^특전, 특혜, 특권을 주다
+0^deprive^빼앗다, 박탁하다
+0^probably^아마도
+0^computer^컴퓨터
+0^compute^계산하다, 산출하다
+0^computation^계산
+0^disputation^논쟁
+0^reputation^평판, 명성
+0^query^문의, 질문, 질문하다
+0^conquer^정복하다, 이기다
+0^conquest^정복, 점령
+0^conqueror^정복자, 승리자
+0^request^요청하다, 요청, 신청
+0^radiant^빛나는, 빛을 내는, 환한
+0^radiance^빛남, 광채
+0^radiator^라디에이터, 방열기
+0^radio^라디오, 무선 통신
+0^radiation^방사능
+0^ranking^순위, 고위의
+0^direct^직접적인, 곧바로,지시하다
+0^directly^곧장, 곧바로
+0^rectangle^직사각형
+0^rectangular^직사각형의
+0^right^옳은, 올바른, 오른쪽의, 정확히, 즉시, 옳게, 바로잡다
+0^rigidity^단단함, 강직, 엄격
+0^regional^지역의, 지방의
+0^regionally^국지적으로
+0^rotate^회전하다, 교대로 하다
+0^rotary^회적식의, 회전 교차로
+0^control^지배, 통제, 지배하다, 통제하다
+0^govern^통치하다, 지배하다
+0^dominate^지배하다, 통치하다<->dominant(우세한, 지배적인)
+0^scroll^두루마리, 스크롤하다
+0^bankrupt^파산한, 파산하다, 파산자
+0^bankruptcy^파산, 파탄, 도산
+0^corruption^부패, 비리, 타락
+0^disruption^붕괴, 분열, 혼란
+0^ascend^오르다, 올라가다, 상승하다
+0^ascent^올라감, 오르다</br> assent-찬성하다</br>accent-악센트
+0^ascending^오르는, 상승적인
+0^descend^내려가다
+0^scandal^스캔들, 추문
+0^scandalous^불명예스러운, 험담하는
+0^science^과학
+0^subconscious^잠재의식의
+0^section^조각, 부분, 단면
+0^sectional^부분의
+0^sector^부문, 분야, 부채꼴
+0^sectoral^부채꼴의
+0^segment^부분, 분할, 분할하다
+0^sensational^선풍적인것, 선정적인것
+0^sensual^관능적인, 육체적 감각의
+0^sequence^순서 차례, 연속적인 사전들
+0^sequel^속편
+0^outcome^결과
+0^prosecution^기소, 고발
+0^secondary^이차적인, 부차적인
+0^conserve^아끼다, 보호하다(철저히 지키다)
+0^conservation^보호, 보존
+0^servant^하인, 종
+0^dessert^디저트, 후식
+0^presidential^대통령의
+0^residence^주택, 거주지
+0^subsidence^함몰, 강하, 침전
+0^signal^신호, 신호를 보내다, 시사하다
+0^signalize^돋보이게 하다, 신호를 보내다
+0^similar^비슷한, 유사한
+0^similarity^유사점, 닮은 점
+0^similarly^비슷하게, 마찬가지로
+0^assimilate^동화하다, 완전히 이해하다
+0^assimilation^흡수, 동화
+0^simultaneous^동시의
+0^simultaneously^동시에
+0^resemble^닮다, 유사하다
+0^society^사회, 집단
+0^socialize^사귀다, 어울리다, 사회화하다
+0^relate^관련시키다
+0^solve^해결하다, 풀다
+0^junior^3학년, 하급자, 하급의, 청소년의
+0^sponsor^후원자, 광고업체, 후원하다
+0^respond^응답하다, 반응하다, 답장하다
+0^respondent^응답자, 피고인
+0^response^반응, 응답
+0^responsibility^책임, 임무
+0^spousal^배우자의
+0^sticker^스티커
+**3
+0^distinguish^구별하다, 차이를 보이다
+0^stimulating^자극이 되는
+0^strait^해협, 궁핍, 곤경
+0^hardship^어려움, 공핍, 곤란
+0^structure^구조, 구조물, 조직하다, 구조화하다
+0^construct^건설하다, 구성하다
+0^industry^산업, 근면
+0^assaultive^공격적인
+0^consume^소비하다, 먹다, 마시다
+0^example^예시, 사례, 보기
+0^tangibility^명백
+0^integrate^통합하다, 통합되다
+0^technique^기법, 기술, 솜씨
+0^technician^기술자
+0^technically^엄밀히 말하면, 기술적으로
+0^technology^(과학)기술, 공학
+0^detective^형사, 탐정, 탐정의
+0^detection^발견, 탐지
+0^protect^보호하다
+0^temperature^온도, 기온
+0^attempt^시도, 노력, 시도하다
+0^tentatively^시험적으로, 머뭇거리며
+0^tend^하는 경향이 있다, 하기 쉽다-자동사, 돌보다-타동사
+0^tender^다정한, 부드러운, 연약한
+0^tenderness^부드러움, 유연, 민감, 허약
+0^attendance^출석
+0^attention^주의, 주목
+0^extension^확대, 연장, 내선
+0^intend^의도하다, 작정하다
+0^intent^의도, 몰두하는, 전념하는
+0^intention^의도, 목적
+0^intentional^의도적인, 고의의
+0^pretend^~인 척하다, 가장하다
+0^pretension^허세, 가식
+0^tense^팽팽한, 긴장한
+0^tension^긴장 상태, 긴장
+0^term^용어, 학기, 기간, 조건, 이름 짓다, 명명하다
+0^terminate^끝나다, 종료하다
+0^terminal^터미널, 말기의
+0^termination^종료
+0^determined^단단한, 결심한
+0^terrace^테라스, 작은, 발코니
+0^testimony^증언, 증인(=testament)
+0^attestation^증명, 입증, 증거
+0^protester^시위자
+0^text^본문, 글, 원문, 문자 메세지를 보내다
+0^textbook^교과서
+0^texture^감촉, 질감
+0^context^정황, 맥락, 문맥
+0^excuse^변명, 구실
+0^atom^원자
+0^atomize^원자화하다, 세분화하다
+0^anatomic^해부의, 해부상의
+0^tone^어조, 말투, 색, 분위기
+0^tune^곡조, 선물, 음을 맞추다, 조율하다
+0^tuneful^듣기 좋은, 선율이 아름다운
+0^torch^횃불, 성화
+0^attribute^탓으로 돌리다, 특징, 속성
+0^contribute^기부하다, 공헌하다, 기여하다
+0^true^진실, 참된, 정확한
+0^truth^사실의, 사실, 진리
+0^truly^정말로, 진심으로
+0^trust^신뢰, 신탁, 신뢰하다
+0^tumult^소란, 심란한, 혼란스러움(=turmoil)
+0^tomb^무덤, 묘
+0^thumb up/down^~에 찬성하다/반대하다
+0^turbulence^격동, 난기류
+0^turbulent^격동의, 사나운, 난기류의
+0^turbine^터빈
+0^distrubance^방해, 폐해, 소란
+0^disturbed^정서적으로 문제가 있는, 불안함
+0^trouble^문제, 골칫거리, 괴옵하다
+0^troublesome^골칫거리인, 고질적인
+0^use^쓰다, 사용하다, 용도
+0^useful^유용한
+0^useless^쓸모없는
+0^abusive^모욕적인, 학대하는
+0^peruse^정독하다, 속독하다
+0^utilize^활용하다, 이용하다
+0^utilization^활용, 이용
+0^vacation^휴가
+0^vacuum^진공, 진공청소하다
+0^evacuation^비우기, 대피, 철수
+0^vainly^허사로, 헛되어
+0^invade^침입하다, 난입하다
+0^invasion^침입, 침략
+0^evasion^회피, 모면
+0^value^가치, 소중히 여기다, 평가하다
+0^valuable^소중한, 값비싼
+0^devalue^평가절하하다
+0^appropriate^적합한, 타당한, 어울리는
+0^reasonable^타당한, 합리적인
+0^available^이용할 수 있는, 유효한
+0^availability^이용 가능성, 유효성, 유용성
+0^adventure^모험, 뜻하지 않은 일
+0^adventurous^모험심이 강한, 모험적인
+0^venture^벤처(사업)
+0^event^사건, 행사, 경우
+0^invent^발명하다, 지어내다
+0^inventive^창의적인, 독창적인
+0^invention^발명, 발명품
+0^inventor^발명가
+0^prevent^막다, 방지하다
+0^prevention^예방, 방지
+0^preventive^예방을 위한
+0^intervention^개입, 조정, 중재
+0^earning^수입, 세득, 획득
+0^souvenir^기념품
+0^advertise^광고하다, 알리다
+0^advertisement^광고
+0^avertible^방지할 수 있는, 피할 수 있는
+0^converible^개조할 수 있는
+0^controversial^논란이 많은
+0^conversation^대화
+0^diversity^다양성
+0^diversion^전환[바꾸기], 기분 전환, (자금)유용
+0^reversible^되돌릴 수 있는, 뒤집어 입을 수 있는
+0^investment^투자, 투자 자금
+0^via^거쳐, 경유하여
+0^deviate^일탈하다, 벗어나다
+0^conveyor^운반하는 것, 컨베이어 벨트
+0^victory^승리
+0^victorious^승리한, 승리를 거둔
+0^conviction^유죄 선고, 신념, 확신
+0^evict^쫓아내다, 축출하다(=expel)
+0^province^지방, 주, 도
+0^invincible^천하무적의
+0^invincibility^무적, 정복 불능
+0^revival^회복, 부활
+0^survive^살아남다, 생존하다, (보다)오래살다
+0^survival^생존
+0^vitamin^비타민
+0^voice^목소리
+0^vocabulary^어휘
+0^advocacy^지지, 옹호
+0^provocation^도발, 자극
+0^voluntary^자발적인, 자원한
+0^benevolent^자애로운, 자선적인
+0^benevolence^자비심, 박해
+0^will^할 것이다, ~일 것이다, 의지, 의도, 의지력을 발휘하다
+0^devotion^헌신
+0^awareness^깨닫고 있음, 자각
+0^award^상, 수여하다, 판정하다
+0^awarder^수여자
+0^awardee^수상자
+0^prophet^예언자
+0^prophecy^예언
+0^progress^진전, 진보, 향상, 앞으로 나아가다
+0^progressive^진보적인, 점진적인
+0^prehistoric^선사 시대의
+0^prepay^선납하다
+0^prepaid^선불된
+0^predetermine^미리결정하다
+0^remain^유지하다, 남다, 머무르다, 유물, 나머지 것
+0^return^돌아오다, 반납하다, 돌아옴
+0^recycle^재활용하다
+0^retail^소매, 소매상
+0^replace^대신하다, 대체하다
+0^income^수득, 수입(=earnings)
+0^intake^섭취하다, 흡입, 받아드림
+0^indoor^실내의
+0^indoors^실내에서
+0^inborn^타고난, 선천적인
+0^acquired^습득한, 후천적인
+0^imprison^투옥하다, 감금하다
+0^exmination^시험
+0^enlarge^확대, 늘리다
+0^widen^넓히다, 키우다, 확장하다
+0^exhalation^발산, 증발, 숨내쉼
+0^exhaust^기진맥진하게 만들다, 지치게하다, 배기관
+0^extreme^극도의, 극단
+0^extremity^맨 끝, 극한, 극도
+0^excape^달아나다, 탈출하다
+0^escort^호휘하다, 호송하다, 수행하다, 호위대, 수행원
+0^erosion^부식, 침식
+0^outlet^배출 수단, 배출구, 할인점
+0^outflow^새어 나감, 유출
+0^outlive^~보다 오래살다, 장수하다
+0^overcome^극복하다, 이기다
+0^overseas^해외의, 외극으로, 해외에
+0^overwhelm^압도하다(주로 수동태)
+0^overflow^넘치다, 넘침, 범람
+0^overload^과적재하다, 과중하게 부담시키다, 과부화
+0^overdose^과다 복용
+0^overweight^과체중의, 중량 초과의
+0^overvalue^과대평가하다, 지나치게 중시하다
+0^compact^다지다, 소형의, 간편한, 꽉 찬
+0^confront^직면하다, 맞서다
+0^congregate^모의다, 소집하다, 집합시키다
+0^connect^연결하다, 관련시키다, 접속하다
+0^coherent^논리적인, 인관성 있는, 조리있는
+0^correlation^연관성, 상관관계
+0^correlate^연관성이 있다
+0^collide^충돌하다, 부딪치다
+0^interval^간격, 사이, 휴식,
+0^interact^소통하다, 교류하다, 상호작용하다
+0^transform^변형하다, 변화시키다
+0^translate^번역하다, 옮기다
+0^transplant^이식하다, 옮겨 심다, 이식, 장기
+0^adhere^고수하다, 들러붙다
+0^adherence^집착, 밀착, 고집
+0^adhesion^접착력
+0^adhesive^접착제, 들러붙는
+0^adopt^채택하다, 입양하다, 도입하다, 적용하다
+0^ahead^앞서, 앞에
+0^abbreviate^줄이다, 요약하다
+0^accelerate^가속하다, 빨라지다
+0^accessory^장신구, 액세서리, 보조적인
+0^applaud^박수갈채하다, 칭찬하다
+0^applause^박수
+0^appreciate^알아주다, 감사하다, 감상하다
+0^appreciation^이해, 감사, 강상
+0^approach^접근하다, 다가오다, 접근법
+0^array^정렬시키다, 배열하다, 차려입다
+0^attachment^애착, 부착물, 첨부 파일
+0^suggest^제안하다, 추천하다, 암시하다
+0^suggestion^제안, 의견, 암시
+0^suggestive^암시하다, 연상시키는, 외설적인
+0^demolish^철거하다, 무너뜨리다
+0^deformed^변형된, 기형의
+0^deformity^기형, 변형
+0^default^채무 불이행, 태만, 부족, 기본 값
+0^decode^해독하다, 이해하다
+0^deforest^삼림을 없애다, 벌채하다, 개간하다
+0^disability^무력, 무능, 신체장애
+0^dishonor^불명예, 굴욕
+0^discard^버리다, 포기하다
+0^disconnect^연락을 끊다, 분리하다
+0^unfair^불공평한, 불공정한
+0^unequal^동등하지 않은, 불평등한, 부적당한
+0^uncertain^불확실한, 분명하지 않은
+0^unusual^드문, 특이한, 이상한
+0^unconscious^무의식의, 의식을 잃은, 무의식
+0^unhealthy^건강하지 않은, 건강에 해로운
+0^unsteady^불안정한, 떨리는, 지속적이지 않은
+0^unfriendly^우호적이지 않은, 쌀쌀맞은
+0^unable^할 수 없는, 하지 못하는
+0^unbelievable^믿을 수 없는, 놀라운
+0^uncomfortable^불편한, 불쾌한
+0^unintended^의도하지 않은, 우연한
+0^unknown^알려지지 않은, 미지의
+0^unlimited^무한한, 제한 없는
+0^unpaid^미납의, 무보수의
+0^unseen^보이지 않은, 처음보는
+0^unwanted^원치않는
+0^unplug^플러그를 뽑다, 빼다
+0^ineffective^효과없는, 무력한
+0^ineffectiveness^헛된, 무익함
+0^inexpensive^값이 싼
+0^intolerable^참을 수 없는, 견딜 수 없는, 지나친
+0^invisible^눈에 보이지 않는, 투명한
+0^inequality^불평등, 불균형
+0^immature^미숙한, 유년기의, 미완성의
+0^immoral^부도덕한, 비윤리적인
+0^impractical^비현실적인, 비실용적인
+0^improper^부적절한
+0^imbalance^불균형, 불안정한 상태
+0^irrational^불합리한, 무리한
+0^foresee^예견하다, ~일 것이라고 생각하다
+0^foremost^맨 먼저의, 가장 중요한, 맨, 먼저
+0^antecedently^앞서서, 그 전에
+0^posterior^뒤의, 다음의
+0^postpone^연기하다, 미루다
+0^uphold^지지하다, 유지하다
+0^undergo^겪다, 받다
+0^underlying^근복적인, 밑에 있는, 잠재적인
+0^understatement^절제된 표현
+0^by-product^부산물, 부작용
+0^onlooker^구경꾼, 방관자
+0^extracurricular^정규교과 이외의, 과외의
+0^nonsmoking^금연의
+0^nonstop^멈추지 않는, 직행의
+0^antiaging^노화 방지의
+0^antibody^항체
+0^counterattack^반격하다, 반격, 역습
+0^malice^악의, 원한
+0^misconception^오해, 오인, 잘못된 생각
+0^mislead^잘못 인도하다, 잘못된 내용을 전달하다
+0^misleading^오해의 소지가 있는
+0^misdiagnosis^오진
+0^mistrust^불신하다
+0^biology^생물학
+0^biodiversity^생물 다양성
+0^biorhythm^바이오리듬, 생체리듬
+0^ecosystem^생태계
+0^eco-friendly^환경 친화적인
+0^ecology^생태학, 생태환경
+0^geothermal^지열의
+0^microscope^현미경
+0^microorganism^미생물
+0^telepathy^텔레파시
+0^telescope^망원경
+0^automatic^자동의
+0^obscurity^모호함, 알려지지 않음
+0^obsessive^집착에 빠진, 사로잡힌
+0^obsessional^사로잡힌
+0^occasion^경우, 때, 행사
+0^opportunity^기회
+0^opposite^반대의, 다른 쪽의, 맞은 편의, ~의 건너편에
+0^absolute^절대적인, 확실한, 절대적인 것
+0^advance^전진하다, 나아가다, 진전, 발진
+0^advantage^이점, 우위, 이익
+0^separate^분리하다, 구분하다, 헤어지다, 개발적인, 각각의
+0^sparation^분리, 이별, 분할
+0^select^선택하다, 고르다, 엄선된
+0^segregate^분리하다, 차별하다
+0^secret^비밀, 비결
+0^secretary^비서, 서기, 사무관
+0^symbiosis^공생(관계)
+0^benefactor^후원자
+0^benediction^축복, 축도
+0^superficial^표면상의, 피상적인, 얄팍한
+0^supernatural^초자연적인
+0^surface^표면, 외관, 표면화하다, 드러나다
+0^surprising^깜짝 놀랄 만한, 놀라게 하는
+0^surround^둘러싸다, 포위하다
+0^surrounding^주위, 환경, 주위의
+0^perfection^완벽, 완성, 마무리
+0^enable^가능하게 하다, 할 수 있게 하다
+0^enrich^풍부하게 하다, 부유하게 하다
+0^empower^권리를 주다, 할 수 있게하다
+0^alike^비슷한, 동등한, 비슷하게, 마찬가지로
+0^ashamed^부끄러운, 수치스러운
+0^shame^부끄러움, 수치, 창피하게 만들다, 부끄럽게 하다
+0^amaze^놀라게 하다(=astonish)
+0^arise^발생하다, 일어나다
+0^asocial^비사교적인, 이기적인
+0^monorail^모노레일
+0^monolingual^단일 언어의, 하나의 언어를 구사하는
+0^monotone^단조로은 소리
+0^monarch^군주ㅡ 제왕
+0^monk^승려, 수도승
+0^uniform^유니폼, 제복, 균일한, 학일적인
+0^union^단체, 연합
+0^unique^독특한, 특별한, 고유한
+0^unite^연합하다, 통합하다
+0^unity^연합, 단결, 일치
+0^universe^우주, 세계
+0^bicycle^자전거
+0^binary^두개의, 이진법의
+0^dual^이중의, 두개의
+0^doubt^의심하다, 의혹, 의심
+0^twice^두번, 두배
+0^twist^비틀다, 왜곡하다, 회전, 뒤틀림
+0^twilight^황혼, 석양
+0^tribe^부족, 집단
+0^trivial^사소한, 하찮은
+0^stroller^유모차
+0^recipient^받는 사람, 수취인
+0^beneficlary^수익자, 수령인
+0^weakness^약점
+0^optimism^낙관주의
+0^racism^인종주의
+0^careless^부주의한
+0^hopeless^절망적인
+0^economical^절약하는
+0^ambigous^애매한</br>arbitrary:독단적인</br>ambivalent:양면적인,상반되는
+0^spiritual^정신의, 정신적인
+0^abundant^풍부한
+0^declare^선언하다, 선고하다, 신고하다
+0^yield^생산하다, 산출하다, 양보하다, 굴복하다
+0^yearn^갈망하다, 동경하다
+0^bomb^폭탄
+0^sparrow^참새
+0^deaf^귀가 먹은, 청각 장애가 있는, ~에 주의를 귀울이지 않는
+0^muscle^근육
+0^male^남자, 수컷
+0^female^여자, 암컷
+0^dawn^새벽, 동틀녘, 밝다
+0^complain^불평하다, 항의하다
+0^fix^고정하다, 고치다
+0^hasty^서두른, 성급한
+0^amazing^놀라운
+0^peak^절정, 정점, 최고조
+0^order^순서, 정돈, 명령
+0^cancel^취소하다, 무효화하다
+0^fuel^연료
+0^contaminate^오염시키다
+0^fill^채우다, 때우다
+0^reap^거두다, 수확하다
+0^leap^뛰다, 뛰어오르다, 도약
+0^calm^침착한, 차분한
+0^dot^점
+0^hawk^매, 팔러다니다
+0^goat^염소
+0^global^세계의
+0^volunteer^봉사자, 자원하다
+0^serious^심각한, 진지한, 만만찮은
+0^aid^원조, 지원, 도움, 돕다
+0^drop^떨어지다, 방울
+0^celebrate^기념하다, 축하하다
+0^vehicle^차량, 탈것, 운송 수단
+0^tradition^전통
+0^proper^적절한, 올바른
+0^nowadays^요즘에는
+0^leak^새다, 새는곳
+0^pollution^오염, 공해
+0^wipe^닦다
+0^scholar^학자
+0^view^견해, 관점, 여기다
+0^military^군사의, 군대
+0^crosswalk^신호등
+0^save^구하다, 저축하다, 모으다,
+0^seek^찾다, 구하다, 추구하다
+0^dramatic^극적인, 감격적인
+0^divide^나뉘다, 차이점
+0^argue^주장하다, 언쟁을 하다, 다투다, 입증하다
+0^harvest^수확, 수확물, 수확하다
+0^rapid^빠른
+0^resemblance^닮은, 비슷한, 유사함
+0^method^방법
+0^Mars^화성
+0^greenhouse^온실
+0^delete^삭제하다
+0^further^더 멀리에, 추가의, 더 나아가
+0^quality^질, 우수함, 고급, 양질
+0^emperor^황제
+0^fireplace^벽난로
+0^equip^장비를 갖추다, 준비를 갖춰 주다
+0^detail^세부사항, 상세히 알리다
+0^recently^최근에
+0^drug^약물, 의약품
+0^sweat^땀, 땀을 흘리다
+0^consider^고려하다
+0^period^기간, 시기
+0^ax^도끼
+0^drastic^과감한, 극단적인, 급격한
+0^main^가장 큰, 중요한, 주된
+0^destination^도착지, 목적지
+0^closely^접근하여, 바싹, 엄밀히, 단단히
+0^cancer^암
+0^fit^맞다, 건강한, 탄탄한
+0^share^공유하다, 나누다, 몫, 지분
+0^badly^잘 안풀리는
+0^store^가게, 저장하다
+0^search^수색
+0^gain^얻다, 증가
+0^cause^원인, 이유, ~을 야기하다
+0^desert^사막, 버리다
+0^freezing^너무 추운, 영하의
+0^record^기록하다, 기록
+0^chase^추적하다
+0^tongue^혀
+0^planet^행성, 세상
+0^commercial^상업의, 광고
+0^hold^쥐다, 유지하다
+0^belong^속하다
+0^scream^비명을 지르다, 절규
+0^chemistry^화학
+0^blossom^꽃, 꽃이 피다
+0^diet^식사, 식습관, 다이어트
+0^weigh^무게, 무게를 달다
+0^frustrate^좌절감을 주다, 방해하다
+0^physical^육체의
+0^beverage^음료
+0^leave^떠나다, 휴가</br>left-과거형
+0^burst^터지다, 파열하다, 떠뜨리다
+0^risk^위험
+0^seldom^좀처럼 ~않는
+0^edge^끝, 가장자리, 모서리
+0^education^교육
+0^typhoon^태풍
+0^forgive^용서하다</br>give up :포기하다
+0^zoology^동물학
+0^race^경주, 인종
+0^bud^싹, 꽃봉오리
+0^update^갱신하다
+0^logger^벌목꾼
+0^loosen^느슨하게 하다, 늦추다, 풀다
+0^dish^접시
+0^avoid^피하다, 방지하다, 막다
+0^fruitless^성과없는
+0^layout^레이아웃
+0^clue^단서, 실마리
+0^efficient^능률적인, 효율적인
+0^effective^효과적인, 실질적인
+0^route^길, 노선, 전송하다
+0^free^자유로운, 석방하다
+0^carefree^근심 걱정 없는, 속 편한
+0^individual^각각의
+0^victim^피해자
+0^personality^성격, 인격, 개성
+0^meal^식사
+0^fume^씩씩대다, 연기를 내뿜다
+0^perfume^향수
+0^float^뜨다
+0^ray^광선
+0^room^방, 같이 쓰다
+0^moisture^수분, 습기
+0^monster^괴물, 거대한
+0^debt^채무
+0^flame^불길, 불꽃
+0^clinic^병원, 치료소
+0^sellout^매진, 매각
+0^role^역활
+0^garage^차고
+0^mature^어른스러운, 분별있는
+0^nationwide^전국적인
+0^scratch^긁다, 찰과상
+0^aquarium^수족관
+0^flat^평평한, 납작하게
+0^saw^톱, see의 과거
+0^eager^열렬한
+0^idol^우상
+0^vapor^증기
+0^rural^시골의
+0^atmosphere^대기
+0^inflation^인플레이션, 통화 팽창, 물가 상승율
+0^casual^무심한, 대충하는 ,평상복
+**4
+0^purple^자주색의, 보라
+0^typical^전형적인, 대표적인, 보통의, 일반적인
+0^wind^바람, 가스, 구불구불하다, 감다
+0^limit^한계, 한도
+0^jewel^보석
+0^pay^지불하다, 내다, 급료, 보수
+0^drip^방울방울 흐르다,
+0^adult^성인, 어른
+0^electric^전기의, 전기를 이용하는
+0^terrific^아주 좋은, 멋진, 휼룡한, 엄청난
+0^last^마지막의, 지난, 최근에
+0^lately^최근에, 얼마 전에
+0^end^끝, 끝내다
+0^weapon^무기
+0^rage^격렬한 분노, 격노
+0^bleed^피를 흘리다, 출혈하다
+0^fee^수수료, 요금
+0^mall^쇼핑 몰
+0^foam^거품
+0^interest^이익, 관심, 흥미, 호기심, <~of interest / interest in ~> <~흥미 / 관심>
+0^silly^어리석은, 바보 같은
+0^issue^문제, 주제, 쟁점, 사인
+0^attack^폭행, 공격, 공격하다
+0^graduation^졸업
+0^motivate^동기부여하다, 이유가 되다
+0^fold^접다, 포개다
+0^task^일, 과업, 과제
+0^gather^모으다
+0^occasional^가끔의
+0^lack^부족, 결핍
+0^major^주요한, 중대한
+0^aim^목적, 목표
+0^crush^으스러뜨리다
+0^challenge^도전, 이의를 제기하다
+0^combination^조합, 결합하다
+0^decorate^장식하다, 꾸미다
+0^sigh^한숨을 쉬다, 한숨
+0^tissue^조직, 화장지
+0^fascinate^마음을 사로잡다
+0^academy^학교
+0^ripe^익은, 숙성한
+0^polar^북극의, 극지의
+0^pale^창백한, 헬쑥한, 옅은
+0^sentence^문장, 형벌, 선고하다
+0^nightmare^악몽
+0^authority^지휘권, 권한
+0^colony^식민지
+0^row^열, 줄, 배를 젓다
+0^whisper^속삭이다
+0^tide^조수, 밀물, 썰물
+0^attorney^변호사
+0^article^글, 신문
+0^dump^버리다
+0^genre^장르
+0^prosper^번영하다
+0^classify^분류하다
+0^become^되다, 어울리다
+0^satellite^인공위성
+0^rhinoceros^코뿔소
+0^swallow^삼키다, 제비
+0^snail^달팽이
+0^Buddhist^불교도
+0^metro^지하철, 수도, 대도시
+0^turnip^순무
+0^touch^만지다, 접속하다
+0^doom^죽음, 파멸
+0^innovation^혁신, 쇄신
+0^block^사각형 덩어리, 막다, 차단하다
+0^warrior^전사
+0^bang^치다
+0^ultimate^궁극적인, 최후의
+0^coral^산호초
+0^cube^정육면체
+0^stink^냄새가 나다, 악취가 풍기다
+0^runway^활주로
+0^paycheck^봉급
+0^donation^기부
+0^earthquake^지진
+0^theme^주제, 테마
+0^sink^가라앉다, 침몰시키다, 싱크대, 개수대
+0^billion^10억, 엄청난 양
+0^ash^재, 잿더미, 유골, 유해
+0^dominant^우세한, 지배적인
+0^slim^날씬한, 호리호리한
+0^falcon^매
+0^candidate^후보자, 지원자, 가능성이 큰 사람</br>candid:솔직한
+0^instantaneous^즉각적인
+0^aircraft^항공기
+0^fasten^매다, 채우다, 잠그다, 고정시키다
+0^mode^방식, 기분, 태도
+0^showcase^공개 행사, 진열장
+0^maze^미로, 복잡한것
+0^gear^기어, 장비
+0^bay^만, 구역, 으르렁거리다
+0^highlight^강조하다, 하이라이트
+0^banquet^연회, 만찬
+0^slope^경사면, 기울어지다
+0^millennium^천년
+0^mass^덩어리, 대량의, 대중적인
+0^dime^다임(미국 캐나다 동전)
+0^random^무작위로
+0^pub^술집
+0^avenge^복수하다
+0^utility^공익사임, 유용성
+0^work^일하다, 작업하다
+0^root^뿌리
+0^pulp^걸쭉한 것, 펄프
+0^therapy^치료, 요법
+0^timber^수목, 목재
+0^pasture^초원, 목초지, 환경
+0^intellect^지적 능력, 지력
+0^gaze^응시하다
+0^brutal^잔혹한, 악랄한
+0^bullet^총알
+0^deadly^생명을 앗아가는, 치명적인
+0^harm^해, 피해, 손해
+0^alive^살아있는, 넘치는
+0^pet^반려동물
+0^bundle^꾸러미, 묶음, 보따리
+0^competition^경쟁, 시합
+0^decade^십년
+0^germ^세균, 미생물
+0^dilemma^딜레마
+0^dew^이슬
+0^spot^점, 반점, 얼굴, 발견하다, 찾다
+0^turn^돌다, 돌리다
+0^panic^극심한 공포, 공항, 허둥지둥함
+0^bow^활, 곡선, 커브, 구브려진, 굴복하다, 숙이다, 구부리다
+0^head^머리, 고개, 가다
+0^feed^밥을 먹이다, 먹이를 주다
+0^run^달리다, 배달, 운항
+0^bridegroom^신랑
+0^stick^찌르다, 찔리다, 박히다, 나뭇가지
+0^mushroom^버섯, 급속히 커지다
+0^dinosaur^공룡
+0^flavor^향, 풍미, 멋, 운치
+0^square^정사각형 모양
+0^eraser^지우개, 말소자
+0^spirit^정신, 영혼
+0^ferry^연락선, 나르다
+0^trap^덫, 올가미, 가두다, 함정
+0^fell^언덕, 베어 넘어뜨리다
+0^soar^급등하다, 솟구치다, 날아오르다
+0^face^얼굴, ~을 마주보다
+0^finance^재정, 재원
+0^tropic^회귀선, 열대지방
+0^drift^이동, 표류
+0^succeed^성공하다, 뒤를 잇다
+0^tolerate^용인하다, 참다, 견디다
+0^feature^특징, 특생, 특징으로 삼다
+0^torrent^급류, 마구 쏟아짐
+0^shy^수줍음, 겁을 먹다
+0^copper^구리, 동, 동전, 경찰관
+0^evergreen^상록수
+0^alien^외국의, 외국인, 외계인
+0^folk^사람들, 민족의, 전통적인
+0^strip^옷을 벗다, 가느다란 조직
+0^stare^응시하다
+0^straw^짚, 밀집, 빨대, 지푸라기
+0^tax^세금, 부과하다
+0^architecture^건축학, 건축양식
+0^add^추가하다, 합하다
+0^edit^수정하다, 편집하다
+0^divorce^이혼하다
+0^fire^불, 사격하다
+0^accord^합의, 부여하다, 부합하다
+0^slave^노예, 일하다
+0^caution^조심, 경고, 경고를 주다
+0^drill^드릴
+0^alert^기민한, 경계하다, 알리다
+0^match^성냥, 경기, 시합, 어울리다
+0^goods^상품, 제품, 재산
+0^nevertheless^그럼에도 불구하고
+0^lingual^혀의, 언어의
+0^rust^녹, 녹슬다
+0^echo^울림, 메아리, 반항
+0^documentary^기록물
+0^barely^거의, 간신히, 가까스로
+0^rare^드문, 진귀한, 살짝 익힌
+0^penny^페니(영국 동전)
+0^spread^펼치다, 확산, 전파, 다양성
+0^widespread^광범위한, 널리 퍼진
+0^trunk^여행용가방
+0^twin^쌍둥이, 자매 관계를 맺다
+0^volcano^화산
+0^deck^갑판, 꾸미다, 장식하다
+0^cone^원뿔
+0^bamboo^대나무
+0^baggage^수하물
+0^statesman^정치인
+0^millionaire^백만장자
+0^dusty^먼지투성인, 칙칙한
+0^brand^상표, 브랜드, 종류, 낙인을 찍다
+0^ladder^사다리</br>leather:가죽
+0^mine^나의 것, 광산(갱)
+0^selfish^이기적인
+0^beneficial^이로운, 유익한
+0^oral^구두, 입의
+0^yawn^하품하다
+0^hardly^거의~않다, 하자마자
+0^triple^3배의
+0^hop^깡충 깡충 뛰다
+0^burden^부담, 짐, 부담을 지우다
+0^web^거미줄, 웹
+0^agent^대리인, 중계인
+0^string^끈, 줄
+0^gallery^미술관, 화랑
+0^bible^성경
+0^boom^붐, 호황, 대유행, 쾅
+0^sake^이익, 동기, 목적, 원인, 이유
+0^mat^매트
+0^slogan^구호, 슬로건
+0^apron^앞치마
+0^alternative^대안, 대체가능한
+0^pursue^추구하다, 밀고 나가다, 계속하다, 뒤쫓다
+0^boundary^경계, 분계선
+0^motto^모토, 좌우명
+0^idiot^바보
+0^rib^갈비뼈
+0^roar^으르렁거리다
+0^patch^부분, 조작
+0^beep^삐 소리를 내다
+0^discipline^규율, 훈육, 징계하다
+0^leopard^표범
+0^clay^점토, 찰흙
+0^peel^껍질을 벗기다
+0^display^내보이다, 전시하다, 드러내다, 전시, 진열
+0^despite^~에도 불구하다
+0^gray^회색, 우중충한
+0^fossil^화석
+0^sphere^구체
+0^bear^참다, 견디다, 품다, 출산하다, 곰
+0^digestion^소화
+0^rational^합리적인, 이성적인
+0^arithmetic^산수, 연산
+0^protein^단백질
+0^mist^안개
+0^eternal^영원한, 끊임없는
+0^solution^해결책, 해법, 용액
+0^trend^동향, 추세
+0^holy^성스러운, 경건한, 독실한
+0^suitable^적절한, 알맞은
+0^solid^단단한, 고체의, 고형의
+0^tragic^비극적인
+0^still^아직도, 그럼에도 불구하다
+0^ceiling^천장, 한계
+0^afford^여유가 되다, 제공하다
+0^elementary^초보의, 초급의, 기본적인, 근본적인
+0^element^요소, 성분
+0^hummingbird^벌새
+0^drag^끌다, 지겨운
+0^lead^이끌다, 안내하다, 연결되다
+0^dock^부두, 정박하다
+0^panel^판, 판으로 덮다, 장식하다
+0^liver^간
+0^sum^액수, 합계, 총압
+0^luxury^호화로움, 사치
+0^frequent^빈번한
+0^layer^층, 겹겹이 쌓다
+0^cell^감방, 세포
+0^masterpiece^걸작, 명작
+0^stupid^어리석은, 멍청한
+0^bait^미끼, 미끼를 놓다
+0^slice^조각, 부분, 몫
+0^even^심지어, 평평한
+0^violation^위반, 위배
+0^trigger^촉발하다, 방아쇠
+0^maid^하녀, 아가씨
+0^admiral^해군장성, 제독
+0^bloom^꽃, 혈색
+0^mud^진흙, 진창
+0^jar^병, 충격을 주다, 거슬리다
+0^filter^여과장치
+0^ridiculous^웃기는, 터무니 없는
+0^encounter^맞닥뜨리다, 접하다, 만남
+0^carbon^탄소
+0^skip^깡총깡총 뛰다, 뛰어넘다
+0^grab^붙잡다
+0^oak^오크나무
+0^Jew^유대인
+0^swing^흔들리다, 흔들다, 휘두르기
+0^frontier^국경, 한게
+0^analyze^분석하다
+0^weep^울다
+0^check^살피다, 점검하다
+0^media^매체
+0^mate^친구
+0^veteran^베테랑
+0^choke^숨이 막히다, 질식시키다
+0^mustache^콧수염
+0^shift^옮기다, 이동하다
+0^shave^면도하다
+0^occupy^차지하다, 점령하다
+0^copyright^저작권
+0^ease^쉬움, 편의성
+0^remodel^개조하다
+0^site^위치
+0^fever^열병,흥분
+0^breeze^산들바람, 미풍
+0^wrinkle^주름, 좋은 생각, 정보
+0^dye^염색하다
+0^lie^누어있다, 눕다
+0^arouse^불러일으키다, 자극하다
+0^hang^걸다, 매달다
+0^high^높은, 최고
+0^childlike^아이 같은, 순진한
+0^childish^어린애 같은
+0^favorable^호의적인
+0^antedate^~보다 선행하다
+0^anterior^앞쪽인, 앞의
+0^concentration^집중
+0^department^부서
+0^disabled^장애를 가진
+0^envelope^봉투
+0^explorer^탐험가
+0^escape^탈출하다
+0^impact^영향, 충격
+0^inner^내부의
+0^interaction^상호 작용
+0^misspell^철차를 틀리다
+0^mischance^불운
+0^preschool^유치원
+0^rebuild^재건하다
+0^restore^회복시키다
+0^refresh^생기를 되찾게 하다
+0^remarkable^놀랄 만한, 놀라운, 주목할만한
+0^reaction^반응
+0^retire^은퇴하다
+0^suburban^교외의, 평범한
+0^unlock^열다, 드러내다
+0^unchangeable^바꿀 수 없는
+0^downward^아래쪽으로, 하향의
+0^backward^뒤의, 뒷걸음질하는
+0^inward^마음속의, 내심의
+0^semifinal^준결승
+0^ultraviolet^자외선의
+0^enhance^높이다
+0^inaudible^들리지 않는
+0^finale^마지막, 피날레
+0^autobiography^자서전
+0^telegraph^전신, 전보를 보내다
+0^election^선거
+0^literary^문학의
+0^minute^분, 극미한, 상세한
+0^porter^짐꾼
+0^consist^이루어져있다, 되어</br>constant:끊임없이
+0^tempo^박자, 속도
+0^vocal^목소리의, 발성의
+0^orchard^과수원
+0^acid^산(성)
+0^avalanche^산사태, 눈사태
+0^skeleton^해골, 골격
+0^pause^잠시 멈추다
+0^blink^깜박이다
+0^optimist^낙천주의자
+0^pessimist^비관론자
+0^hay^건초
+0^shield^방패
+0^trail^자국, 자취, 끌다
+0^rear^뒤쪽
+0^ware^조심성 있는, 쓰다, 주의하다, 물건
+0^warehouse^창고
+0^routine^틀, 일상
+0^comet^혜성
+0^dense^빽뺵한, 밀접한
+0^roam^돌아다니다
+0^patrol^순찰을 돌다
+0^spur^박차, 자극제
+0^barter^물물교환하다
+0^auction^경매
+0^ban^금지하다
+0^disguise^변장하다, 위장하다
+0^stain^얼룩지게하다, 더럽히다
+0^vague^희미한, 모호한, 애매한
+0^grid^격자무늬
+0^formula^공식
+0^tap^톡톡 두드리다
+0^grasp^꽉 잡다, 움켜잡다, 이해하다, 파악하다
+0^stubborn^완고한, 고집스러운, 완강한
+0^scan^살피다
+0^surrender^투항하다
+0^cargo^화물
+0^stock^재고품, 비축물, 저장품
+0^livestock^가축
+0^booth^부스, 작은공간
+0^converter^전환시키는 것
+0^toss^던지다
+0^cope^대항하다, 맞서다
+0^radical^근본적인, 철저한, 급진적인
+0^shrug^으쓱하다
+0^function^기능, 행사
+0^predator^포식자
+0^domain^영역, 범위
+0^abandon^버리다</br>abundant:풍부한
+0^hatch^부화하다
+0^knight^기사
+0^contagion^전염
+0^sound^소리, 건강한, 깊이
+0^elastic^고무 밴드
+0^fade^희미해지게 만들다
+0^chaos^혼돈
+0^scheme^계획, 제도, 책략
+0^downplay^경시하다, 하찮게 보다
+0^durable^내구성이 있는, 오래가는
+0^eloquent^웅변, 유창한
+0^taboo^금기
+0^render^만들다, 주다, 제출하다
+0^crane^기중기, 크레인, 학, 두루미
+0^margin^여백
+0^spank^엉덩이를 때리다
+0^Confucius^공자
+0^duration^지속, 기간
+0^boost^북돋우다, 격력
+0^cosmos^우주, 어마어마한
+0^collision^충돌, 부딪침
+0^Easter^부활절
+0^oval^계한형의, 타원형
+0^hemisphere^반구
+0^firsthand^직접적으로
+0^secondhand^간접적으로
+0^utter^완전한, 내다, 말하다
+0^pistol^권총
+0^curator^큐레이터
+0^shelter^주거지, 피신지, 보호하다
+0^skeptical^의심 많은, 회의적인
+0^adolescence^청소년기
+0^tow^끌다, 견인
+0^hover^맴돌다
+0^alliance^동맹, 연합
+0^monitor^모니터, 관찰하다
+0^agenda^의제
+0^reindeer^순록, 통솔권
+0^clone^복제
+0^bridge^다리
+0^suffix^접미사
+0^bounce^튀다, 튀어 오름
+0^splash^철벅 떨어지다, 끼얹다
+0^pat^쓰다듬다
+0^steep^가파른, 비탈진, 급격한
+0^might^~해도 좋다
+0^riot^폭동
+0^swift^신속한, 빠른
+0^dismal^음울한, 울적하게 하는
+0^prospros and cons^찬반양론
+0^celebrity^유명인사
+0^ape^유인원
+0^name^이름, 성함, 평판, 명성
+0^homage^경의, 존경의 표시
+0^gulf^만, 페르시아 만
+0^near^가까운
+0^rhyme^운문
+0^transaction^처리, 거래
+0^alienate^소원하게 만들다, 소외감을 느끼게 하다
+0^optimal^최선의, 최상의, 최적의
+0^midwife^산파, 조산사
+0^veterinarian^수의사
+0^epic^서사시
+0^ruthless^무자비한, 가차 없는, 인정사정 없는
+0^icon^아이콘, 우상
+0^hypocrisy^위선
+0^smallpox^천연두
+0^measles^홍역
+0^slender^호리호리한, 가느다란
+0^compatible^호환이되는, 양립할 수 있는</br>comparable;비교할 만한
+0^output^생산량, 산출력
+0^prefix^접두사
+0^renowned^유명한, 명성 있는
+0^recall^기억해 내다, 상기하다
+0^Mediterranean^지중해의
+0^append^덧붙이다, 첨부하다
+0^ample^충분한, 풍만한
+0^devise^고안하다
+0^visual^시각의
+0^visible^눈에 보이는, 가시적인
+0^project^계획, 프로젝트
+0^tip^끝, 끝부분, 기울어지다
+0^banish^추방하다, 사라지게 만들다, 제거하다
+0^zealot^열설적인 사람
+0^revolt^반란, 봉기, 저항
+0^late^늦은
+0^calf^종아리, 송아지, 새끼
+0^buffalo^물소
+0^gauge^게이지, 측정기, 치수, 판단하다
+0^Muslim^이슬람교도
+0^junk^쓸모없는 물건, 폐물, 쓰레기
+0^bronze^청동, 구릿빛
+0^therefore^그러므로
+0^saint^성인군자
+0^session^시간
+0^hence^이런 이유로[그럼으로]
+0^client^의뢰인
+0^tag^꼬리표
+0^raisin^건포도
+0^pony^조랑말
+0^parrot^앵무새
+0^rate^속도, 비율, 평가하다
+0^character^성격, 기질, 특징
+0^bill^고지서, 청구서
+0^version^설명, -판

@@ -1,0 +1,992 @@
+**1
+0^abide by^~을 지키다, ~을 준수하다
+0^yearn for^~을 동경하다, ~을 갈망하다
+1^write off^(부채를)탕감하다
+2^wrestle with^~을 해결하려고 애쓰다
+2^wreak havoc on^~을 망치다, ~을 손상시키다
+0^worth one’s salt^값을 하는
+1^work(do) wonders^기적을 낳다
+1^work out^해결하다, 운동하다
+0^without regard to^~에 상관없이, ~을 고려하지 않고
+0^account for^~을 설명하다, ~을 차지하다
+1^with the expcetion of^~을 제외하고
+0^with one’s heart and soul^온 정성을 다하여
+1^with flying colors^당당하게
+2^with caution^주의 깊게
+2^with all^~에도 불구하고
+0^with (one’s) tongue in (one’s) cheek^놀림조로
+2^wind up^끝내다
+2^wide of the mark^빗나간
+2^at one's discretion(of)^~의 재량으로
+2^white elephant^성가신 물건
+2^wet blanket^흥을 깨뜨리는
+2^weed out^제거하다
+0^wear out^낡게 하다, 낡게 되다
+2^watch over^~을 보살피다, ~을 지키다
+2^waste A on B^B에 A를 허비하다
+2^ward off^~을 피하다, ~을 쫓아버리다
+2^walk out on^~을 버리다, ~을 떠나다
+0^ at stake^위기에 처한, 위태로운
+2^walk of life^직업, 신분
+1^wait on^~을 시중들다
+2^vouch for^~을 보증하다
+1^vice versa^반대로
+1^usher in^~을 안내하다, ~이 시작하게 하다
+0^use up^다 써 버리다
+2^up-to-the-minute^최근의
+1^ups and downs^기복
+2^at the expense(cost) of^~을 희생하여
+2^up in the air^아직 미정인
+2^unequal to^~을 감당할 수 없는
+1^sick of^~에 실증이난, 지겨운
+0^under the weather^몸이 안 좋은, 기분이 좋지 않은
+2^under the table^몰래 불법으로
+2^under the pretense of^~을 핑계삼아, ~을 가정하여
+2^under one's breath^작은 목소리로
+2^under no circumstances^무슨 일이 있어도 ~않는
+2^at the mercy of^~에 좌우되는
+2^turn up^나타나다
+0^turn to^~에 의지하다
+0^turn over a new leaf^새사람이 되다
+2^turn one's nose up^거절하다, 비웃다
+2^turn one's head^~을 우쭐하게 만들다, 외면하다
+2^turn away^돌려보내다, 내쫓다
+2^turn aside^비켜나다
+0^break in^칩입하다, 끼어들다
+2^take a rain check^다음을 기약하다
+1^be aware of^~을 알고 있다
+2^tooth and nail^필사적으로
+2^tone in with^~와 조화하다
+0^depend on(upon)^~에 의존하다
+2^to the point^적절한
+2^to the letter^충실히, 확실히
+2^to the effect that^~라는 뜻으로(취지로)
+1^to the contrary^그와 반대로, 그와는 달리
+2^to date^지금까지
+2^be indulged in^~에 빠지다, ~에 탐닉하다
+2^to a fault^지나치게, 극단적으로
+2^go with^~와 어울리다
+2^go up^오르다
+2^tie up^묶다, 중단시키다, 구속하다
+2^tick off^확인하다, 점검하다
+0^throw in the towel(sponge)^패배를 인정하다
+2^throw a fit^노발대발하다
+1^the upper hand^우세, 점령
+2^bring up^~에 대해 언급하다, 양육하다
+2^the name of the game^가장 중요한 점, 본질
+2^the lion's share^최대의 몫
+2^the ins and outs^상세한 것들
+2^the apple of one's eye^아주 소중한 것(사람)
+0^ten to one^십중팔구
+2^tell on^~에게 영향을 미치다
+2^tease out^(정보 등을)빼내다
+2^team up with^~와 협력하다
+0^walk on eggshells^살얼음판을 걷다, 눈치를 살피다
+2^tamper with^~를 함부로 변경하다
+2^talk shop^일 이야기를 하다
+2^talk down to^~에게 무시하며 말하다
+2^take[answer for] the consequences^결과에 책임을 지다
+2^take turns^교대로 하다
+2^take to one's heels^도망가다
+2^take to^~을 좋아하다, ~에 정들다
+2^take the place of^~를 대신하다
+1^brush up on^~을 재검토하다, ~을 복습하다
+2^take the lead^앞장서다, 주도권을 잡다
+2^take sides^편들다
+1^take pride in^~을 자랑하다
+2^take precaution^조심하다, 경계하다
+2^take part in^~에 참석하다
+2^take one's time^서두르지 않다
+2^take one's breath away^깜짝 놀라게 하다</br> breath :입김, 숨 </br> breathe : 숨을 쉬다
+2^take it out of^~을 지치게 하다
+2^by leaps and bounds^급속하게
+2^take issue with^~와 논쟁하다
+2^take care of^~을 돌보다
+2^take against^~에게 반감을 갖다
+2^take advantage of^~을 이용하다
+2^take a sip^한 모금 마시다
+2^take A for B^A를 B로 잘못 알다
+2^take a dim view of^~을 비판적으로 보다
+2^take ~with a grain[pinch] of salt^~을 가감해서 듣다
+2^by means of^~을 수단으로
+2^take~unawares^~을 불시에 급격하다
+2^take to task^~을 꾸짖다
+2^take~to heart^~에 신경을 쓰다, ~을 마음에 새기다
+2^take ~into custody^~을 구금하다
+0^take~into consideration[account]^~을 고려하다
+2^take~in(one's)stride^~을 냉철하게 대처하다
+0^swarm with^~으로 가득하다
+2^suit oneself^자기 마음대로 하다
+0^call for^~을 요구하다, ~을 요청하다
+2^strike up^시작하다
+2^strike out^실패하다, 줄을 그어 지우다
+2^straight from the shoulder^솔직하게, 직접
+2^stop by^~에 잠시 들르다
+2^stop at nothing^무엇이든 다하려 들다
+2^stick to one's gun^자기의 주장을 고수하다
+2^stem from^~로부터 생기다, ~에서 유래하다
+0^stare at^~을 응시하다
+2^carry on ^계속 진행하다
+2^stand to reason^이치에 맞다
+2^stand in a white sheet^죄를 뉘우치다
+2^stand a chance of^~할 가능성이 있다
+2^stand ~ up^~을 바람맞히다
+1^sprain one's ankle^발목을 삐다
+2^split hairs^지나치게 신경쓰다
+0^spill the beans^비밀을 누설하다
+2^speak one's mind^솔직히 이야기하다
+2^catch up with^~을 따라잡다
+2^speak ill of^~을 나쁘게 말하다
+2^so much for^~에 대해서는 충분한
+0^snow job^감언이설, 교묘한 거짓말
+0^smoking gun^확실한 증거
+2^slip one's mind^깜빡하다, 잊다
+2^sit on^~을 그냥 쥐고 있다, ~의 일원이다
+2^in token of^~의 표시로
+2^sign up for^~에 등록하다
+2^come across^우연히 만나다, 이해되다
+2^side by side with^~와 나란히[함께]
+2^show up^나타나다
+2^show off^자랑하다, 과시하다
+2^shed light on^~을 밝히다, ~을 해명하다
+1^settle down^정착하다, ~을 진정시키다
+2^set up^준비하다, 설립하다
+2^set the seal on^~을 마무리하다
+2^set store by^~을 중요시하다
+2^water down^효과를 약화시키다, 희석시키다
+2^set out^출발하다, 시작하다
+2^set free^석방하다, 풀어주다
+2^set forth^발표하다, 제시하다, 출발하다
+2^set back^방해하다
+2^set about^시작하다
+2^set~apart^~을 따로 놓아두다
+2^serve one's turn^~에게 도움이 되다
+2^stand out^두드러지다
+2^come up with^~을 제안하다
+1^sell like hot cakes^날개 돋친 듯 팔리다
+2^see to it that^~을 확실히 하다
+2^see to^~을 처리하다, ~을 맡아 하다
+2^see red^격노하다, 분노하다
+2^see eye to eye^의견이 일치하다
+1^see A as B^A를 B로 간주하다
+2^save (one's) face^체면을 지키다
+2^run the risk of^~의 위험을 무릅쓰다
+2^crack down(on)^(~을)단속하다, 엄하게 다스리다
+2^run short^모자라다
+2^run over^치다
+2^run out of^~이 바닥나다, ~을 다 써 버리다
+2^run into^~을 우연히 만나다, 충돌하다
+2^run for^~에 출마하다
+2^run down^다 되다, 멈추다
+2^run away^달아나다, 도망치다
+2^run across^~을 우연히 만나다
+2^crop up^불쑥 나타나다(발생하다)
+2^rub ~(up) the wrong way^~을 화나게하다
+2^round up^체포하다
+2^round out^마무리 짓다
+2^round off^마무리하다, 완료하다
+2^root out^뿌리 뽑다
+2^rise to fame^명성을 얻다
+2^rip off^바가지를 씌우다
+2^rid A of B^A에게서 B를 제거하다
+1^cut back on^~을 절감하다(줄이다)
+2^resign oneself to^~을 체념하다
+1^remind A of B^A에게 B를 상기시키다
+0^rely on ^~에 의지하다
+2^refrain from^~을 삼가다
+2^refer to^언급하다, 지칭하다
+2^redound to^~을 높이다, ~을 초래하다
+1^red tape^관료적 형식주의
+1^record time^최단 시간
+1^cut[make] a fine [conspicuous/briliant] figure^두각을 나타내다, conspicuous : 눈에 띄는
+2^come in handy^쓸모 있다, 도움이 되다
+2^read between the lines^알아내다
+2^raise an objection^이의를 제기하다
+2^rain or shine^날씨에 상관없이
+2^rain cats and dogs^비가 억수같이 내리다
+2^rack one's brain(s)^머리를짜내다
+2^quite a few^많은
+2^put[take] stock in^~을 신용하다
+2^delve into^~을 철저하게 조사하다, ~을 캐다</br>delve : 뒤지다
+2^put oneself in one's shoes^~의 입장이 되어 보다
+2^put on an act^~인 체하다
+2^put on^~을 입다, ~을 상연하다
+2^put off^연기하다, 미루다
+2^put across^훌륭히 해내다, 이해시키다
+2^pull the wool over one's eyes^~을 속이다</br> 털을 밀다(~의 눈 넘어)
+1^pull over^정차하다
+2^pull one's weight^자신의 역할을 다하다
+2^do without^~없이 지내다
+2^pull[have] a long face^우울한 표정을 짓다
+0^provide A with B^A에게 B를 제공하다
+1^prop up^지지하다
+0^probe into^~을 조사하다
+2^prior to^~보다 앞선
+1^pride oneself on^~을 자랑하다
+2^prevail on^~을 설득하다
+2^when it comes to~ing^~에 대해서
+2^stave off^간신히 피하다, 늦추다
+2^point up^강조하다
+2^play up^과장하다
+2^play on^~을 이용하다
+2^play it by ear^임기응변으로 하다
+2^play fast and loose^무책임하게 행동하다
+2^play a trick on^~에게 장난치다
+2^play a role in^~에서 역할을 하다
+2^place a high value on^~을 높이 평가하다, ~을 중시하다
+2^figure out^알아내다, 이해하다, 계산하다
+2^pitch in^협력하다
+2^picture to oneself^상상하다
+2^pick up the tab[bill]^계산하다
+2^pick one's pocket^소매치기하다
+2^pick on^~을 괴롭히다, ~을 혹평하다
+**2
+0^persist in^~을 계속하다
+0^perjure oneself^위증하다
+0^fill up^~을 가득 채우다
+1^pay tribute to^~에게 경의를 표하다
+2^pay through the nose^바가지를 쓰다, 많은 돈을 쓰다
+2^pay off^성과를 거두다, 성공하다
+0^pay attention to^~에 주의를 기울이다
+2^pave the way for^~의 길을 열다
+2^patch up^관계를 회복하다, 문제를 수습하다
+2^pass up^거절하다
+2^mull ~ over^곰곰이 생각하다
+2^pass the buck^책임을 전가하다
+2^pass for^~로 통하다
+2^pass away^죽다
+2^part and parcel^중요 부분, 요점
+0^owe A to B^A는 B 덕분이다
+2^out of the question^불가능한
+0^out of question^확실한
+2^out of the blue^갑자기, 뜻밖에
+2^out of stock^품절된
+2^for good^영원히
+2^out of print^절판된
+2^out of place^불편한
+2^out of order^고장난
+2^out of one's wits^제정신을 잃고
+2^out of humor^화가 나서, 불쾌해서
+0^out of date^구식의
+2^out of bounds^출입 금지의
+2^but for^~을 제외하고, ~이 없었더라면
+0^give up^포기하다
+2^once in a while^가끔씩
+2^once and for all^최종적으로
+2^on the whole^전반적으로
+2^on the wax^증가하는
+2^on the wane^줄어드는, 시들해지는
+2^on the wagon^금주하는
+1^on the tip of one's tongue^혀끝에서 맴도는, 생각이 날 듯 말듯한
+2^on the square^정직한
+2^give way to^(감정에) 못 이기다
+2^on the spur^전속력으로
+2^on the run^도주 중인, 달리는
+2^on the rise^증가 추세가 있는
+2^on the point of ~ing^막 하려고 하는
+2^on the house^무료인
+2^on the horns of a dilemma^진퇴양난인
+2^on the heels of^~의 직후에, ~의 뒤를 바싹 따라서
+2^on the ground(s) that^~라는 이유로
+2^go[come] down with^(병) 걸리다
+2^on the go^바쁜
+2^one the fence^결정되지 않은, 중립적인
+1^on the contrary^반대로
+2^on the brink of^~의 직전에
+2^on the booze^몹시 취하여
+2^on the blink^고장이 난
+2^on the alert^경계하는
+2^on purpose^고의적으로
+2^make out^판별하다, 이해하다
+2^on pins and needles^불안한
+2^on leave^휴가 중인
+2^on hand^이용 가능한
+2^on good terms with^~와 친한
+2^on edge^안절부절못하여
+2^on cloud nine^매우 행복한
+2^on and on^계속해서
+2^on account of^~ 때문에
+2^make up for^~에 대해 보상하다
+2^on a roll^잘나가는
+0^on a par with^~와 동등한, ~와 같은
+2^off the wagon^술을 다시 마시는
+2^off the record^비공식의, 비공식적으로
+2^keep one's feet on the ground^현실적이다, 실제적이다
+2^of one's own accord^자발적으로
+2^of moment^중요한
+2^of itself^저절로
+2^on behalf of^~을 대신하여
+2^odds and ends^나머지, 잡동사니
+2^nuts ans bolts^요점, 기본적인 사항들
+2^not a bit^전혀 ~ 아닌
+2^nose into^~에 간섭하다
+2^No sweat^별거 아니다
+0^no more than^단지
+2^next to^ 거의
+2^narrow down to^~로 좁히다
+2^out in left field^별난, 이상한
+2^nail down^확실히 하다, 해결하다
+2^moving spirit^주동자, 중심인물
+2^minister to^~을 보살피다, ~을 섬기다
+2^meet ~ halfway^~와 타협하다
+2^Mark my words!^내 말 명심해라!
+2^map out^계획을 세우다
+2^make up^구성하다, 보상하다
+2^make the rounds^(소문 등이) 퍼지다
+2^pass out^기절하다, 나눠주다
+2^make the most of^~을 최대한 이용하다
+2^make the best of^~에 최선을 다하다, ~을 최대한 이용하다
+2^make sure^~을 확실히 하다
+2^make something of oneself^출세하다
+2^make short work of^~을 빨리 해치우다
+2^make sense^이해가 되다, 타당하다
+2^make oneself understood^자기의 말을 남에게 이해시키다
+0^make oneself at home^편히 쉬다
+2^pick up^태워 주다, 집어 올리다, 회복하다
+2^make one's way^출세하다, 성공하다
+2^make off^급히 떠나다, 도망치다
+0^make no difference^차이가 없다
+0^make it^해내다, 성공하다
+2^make head or tail of^~을 이해하다
+2^make good^성공하다
+2^make for^~로 향하다
+2^make believe^~인 체하다
+2^pore over^~을 자세히 보다, ~을 조사하다
+2^make allowance(s) for^~을 참작하다
+2^make a speech^연설하다
+2^make a scene^소란을 피우다
+2^make a face^얼굴을 찌푸리다
+2^make a difference^영향을 미치다, 중요하다
+2^make a bet^내기하다
+2^major in^~을 전공하다
+2^set off^출발하다, 터뜨리다
+2^made for^~에 꼭 맞는
+2^lose track of^~을 잊어버리다
+2^lose one's temper^화를 내다
+2^lose heart^낙담하다
+2^lose face^창피를 당하다
+2^look to^~에 의존하다, ~에 유의하다, 생각해보다
+2^look over^살펴보다
+2^look out^주의하다, 경계하다
+2^slack off^게으름을 피우다, 늦추다
+2^look in on^~을 방문하다
+2^look forward to^~을 기대하다
+2^look for^~을 찾다, 예상하다
+2^look down on^~을 경멸하다, 무시하다
+2^do~ a good turn^~에게 친절히 대하다
+2^live up to^부응하다
+2^like clockwork^순조롭게, 규칙적으로</br>clockwork 시계 장치, 태엽 장치
+2^like anything^몹시, 대단히
+2^stand by^~을 지지하다, 대기하다
+2^like a fish out of water^불편한
+2^let up^누그러지다, 잠잠해지다
+2^let the cat out of the bag^비밀을 누설하다
+2^let one's hair down^느긋하게 쉬다, 머리를 풀다
+2^let on^밀고하다, 드러내다
+2^let go^풀어 주다, 놓아 주다, 해고하다
+2^let bygones^과거는 과거일 뿐
+2^be bygones^과거는 과거일 뿐
+2^let alone^~은 물론이고, ~은 말할 것도 없이
+2^stand for^~을 나타내다, ~을 상징하다, ~을 지지하다
+2^come under fire^비난을 받다
+2^let~down^~을 실망시키다
+2^a world of^아주 많은
+2^leave nothing to be desired^완벽하다
+2^leave no stone unturned^백방으로 노력하다
+2^leave for the day^퇴근하다
+2^leave ~out of account^~을 고려하지 않다
+2^leave ~in the lurch^내버려 두다
+2^stand in^대신하다, 대역을 하다
+2^lead off with^~로 시작하다
+0^lay out^배열하다
+2^lay off^해고하다
+2^lay down the law^강압적으로 말하다
+2^lay down^규정하다, 내려놓다
+2^lay by^저축하다
+2^lay bare^밝히다, 드러내다
+2^know the ropes^요령을 잘 알다
+2^stand up for^~을 지지하다, ~을 옹호하다
+2^know better than to^~할 만큼 어리석지 않다
+2^know ~by heart^~을 암기하다
+2^knock up^급히 만들다
+2^kiss off^걷어차다, 무시하다, 해고하다
+2^kick the bucket^죽다
+2^keep[maintain] the status quo^현상을 유지하다
+2^keep track of^~을 기록하다, ~을 추적하다
+2^keep one's temper^화를 참다
+2^tamper^간섭하다, 함부로 변경하다
+2^steer clear of^~을 피하다
+2^keep one's nose to the grindstone^죽어라 일만 하다
+2^keep one's head above water^빚지지 않다
+1^keep one's fingers crossed^행운을 빌다
+2^keep one's eye on the ball^방심하지 않다
+2^through thick and thin^좋을 때나 나쁠 때나, 때를 가리지 않고
+2^keep in mind^명심하다
+2^keep good time^시간이 잘 맞다
+2^keep down^억누르다, 억압하다
+2^take ~ for granted^~을 당연하게 여기다
+2^keep cool^냉정을 유지하다
+2^keep body and soul together^간신히 연명하다, 겨우 살다
+2^keep away^피하다
+2^keep and eye on^~을 지켜보다, ~을 감시하다
+2^keep abreast of^~에 뒤지지 않게 하다
+2^keep a straight face^정색하다
+2^keep ~ posted^~에게 계속 알려 주다
+2^keep ~ company^~와 함께 있어 주다
+2^take a nosedive^폭락하다, 급감하다
+2^keep ~at arm's length^~와 거리를 두다
+2^keep(close) tabs on^~을 예의 주시하다
+0^jump[climb]on the bandwagon^시류에 편승하다
+2^jump the track^탈선하다
+2^jot down^간단히 적어 두다
+2^jack up^들어 올리다
+2^It's no big deal^별일 아니다
+2^Its all set^준비가 다 되다
+2^take after^~을 닮다
+2^It's all Greek to me^전혀 이해할 수가 없다
+2^irrspective of^~에 관계없이
+0^instead of^~ 대신에
+2^inflict A on B^A를 B에게 가하다
+2^sit in on^~에 참관하다, 참석하다
+2^in time^때맞추어
+2^in the red^적자로
+2^have~in mind^염두를 두다
+2^aim at^~을 겨냥하다, 노리다
+2^in the nick of time^때마침
+2^in the last analysis^결국, 마침내
+2^in the face of^~에도 불구하고
+2^in the event of^~할 경우에
+2^in the end^결국, 마침내
+2^in the distane^멀리
+2^in the black^흑자로
+2^in[into] the bargain^게다가, 덤으로
+1^hit the ceiling[roof]^몹시 화내다
+2^at the drop of a hat^즉시
+2^in the balance^불확실한
+2^in the absence of^~가 없는 가운데
+1^in that^~라는 점에서, ~하기 때문에
+2^in terms of^~라는 면에서
+2^in store(for)^(~을) 기다리고 있는
+2^in spite of oneself^자신도 모르게
+2^in spite of^~에도 불구하고
+2^in round numbers^대략
+2^hit upon[on]^(우연히)~을 생각해 내다
+2^blot out^~을 완전히 덮다, 애써 잊다
+2^in return for^~에 대한 답례로
+2^in reference to^~에 관하여
+2^in proportion to^~에 비례하여
+2^in profile^옆모습으로
+2^in private^다른 사람이 없는 데서
+2^in person^직접, 본인이
+2^in observance of^~을 준수하여
+2^in no time^즉시, 바로
+2^hold back^억제하다
+2^bottom out^바닥을 치다, 바닥을 치고 다시 상승세를 타다
+2^in honor of^~을 기념하여, 경의를 표하여</br>honor:존경
+2^in high relief^아주 돋보이게
+2^in good taste^고상한, 멋있는
+2^in full accord(with)^(~와) 완전히 일치하는, 만장일치의
+2^in favor of^~에 찬성하여
+2^in earnest^진지하게, 본격적으로
+2^in duplicate^두(2) 통으로
+2^in detail^상세히
+2^hold up^지지하다, 올리다, 강도짓하다
+2^come off^성공하다
+2^in despair^절망하여
+2^in deep[hot] water^곤경에 처한
+2^in concert with^~와 협력하여
+1^in compliance with^~에 순응하는
+2^in comparison with^~와 비교하여
+2^in charge of^~을 맡고 있는
+0^in case^~에 대비하여, ~의 경우
+2^in behalf of^~을 위해, ~을 대신해서
+2^in retrospect^회고해 볼 때
+**3
+2^in the wake of^~을 뒤따라, ~의 결과로
+2^in answer to^~에 대한 응답으로
+0^in an effort to^~하려는 노력으로
+1^in all senses^모든 면에서
+2^in advance^미리
+2^in addition to^~에 더하여
+0^in accordance with^~에 따라서
+1^in a timely manner[fashion]^시기적절하게
+1^in a row^연속하여
+0^factor ~ in [into]^~을 고려하여, ~을 요소에 넣다
+2^iron out^해결하다
+2^in a nutshell^간결하게
+2^in a muddle^당황하여, 어리둥절하여
+2^in a jam^곤경에 처한
+2^in a bind^곤경에 처한, 속박된
+2^impose on[upon]^~을 이용하다, 주제넘게 나서다
+2^ill at ease^불안한
+2^hot air^과장, 허풍
+2^hook up^연결하다, 접속하다
+2^go down the drain^수포로 돌아가다, 파산하다
+2^keep up^계속하다, 유지하다
+2^hold water^이치에 맞다, 타당하다
+2^hold over^연기하다
+2^hold on^기다리다, 견디다
+2^hold good[true]^유효하다
+2^hit the nail on the head^핵심을 찌르다
+2^hit the jackpot^대박 나다
+2^hit the booze^술을 마시다
+2^hit the books^열심히 공부하다
+2^call it a day^하루 일을 마치다
+2^keep up with^~을 따라가다, ~에 뒤지지 않다
+2^hit the ball^척척 진행되다
+2^hit it off with^~와 사이좋게 지내다
+2^hit below the belt^비겁한 짓을 하다
+2^hinge on^~여하에 달려 있다
+2^high and low^도처에
+2^help out^돕다
+2^head off^가로막다, 피하다
+2^have words with^~와 말다툼을 하다
+2^lag behind^뒤쳐지다
+2^have the huts^용기가 있다
+2^have one's heart in one's mouth^몹시 놀리다, 몹시 걱정하다
+2^have one's head in the clouds^몽상에 잠겨 있다.
+2^have one's hands full^몹시 바쁘다
+2^have no idea^알지 못하다
+2^have it out^결판을 내다, 매듭짓다
+2^have it in for^~을 벼르고 있다, ~에게 양심을 품다
+2^have it both ways^양다리를 걸치다
+2^have difficulty~ing^~하는데 고생하다
+2^follow up on^~을 잘 이행하다
+2^have butterflies in one's stomach^긴장하다
+2^have influence on^~에 영향을 미치다
+2^have an eye for^~에 안목이 있다.
+2^have an ax to grind^딴 속셈이 있다.
+2^have a say^발언권이 있다
+2^have a lark^즐겁게 놀다
+2^have a go at^~을 해보다
+2^have a finger in the pie^참견하다
+2^have a chip on one's shoulder^쉽게 화를 내다, 시비를 걸다
+2^leave out^빠뜨리다, 생략하다
+2^have a big mouth^입이 싸다, 말이 많다
+2^have a bee in one's bonnet^골똘히 생각하다
+2^hard and fast^고정된, 엄격한
+2^hang up^전화를 끊다
+2^hang out with^~와 어울려 다니다
+2^hang on^끊지 않고 기다리다
+2^hang by a thread^매우 위태롭다
+2^hang around^어슬렁거리다, 기다리다
+2^hand over fist^대량으로 척척
+2^lose money hand over^순식간에 엄청난 돈을 잃다
+2^look after^~을 돌보다
+2^hand out^나누어주다
+0^hand in^제출하다
+1^hand down^전하다, 대물림하다
+2^hammer out^해결하다
+2^green light^허가, 승인
+2^grease one's palm^뇌물을 건네다
+2^grass roots^일반 대중, 풀뿌리
+2^grapple with^~와 맞붙어 싸우다, ~을 해결하려고 노력하다
+0^go without^~없이 지내다
+2^look into^~을 조사하다
+2^go to the wall^궁지에 빠지다
+2^go to great lengths^애쓰다
+2^go through with^~을 해내다, 성취하다
+2^go through the roof^치솟다, 급등하다, 몹시 화내다
+2^go through the motions^시늉만 하다
+0^go through^ ~을 겪다, ~을 경험하다
+2^go round[around]^돌아가다
+2^go over^검토하다, 복습하다
+2^go out of fashion^유행이 지나다
+2^look up to^~을 존경하다
+2^go out of existence^사라지다, 멸망하다
+2^go out of business^파산하다, 폐업하다
+2^go on strike^파업하다
+2^go on a spending spree^돈을 흥청망청 쓰다
+2^go off the deep end^자제력을 잃다, 정신이 나가다
+2^go into bankruptcy^파산하다
+2^go in for^~에 참가하다, ~에 열중하다
+2^go for^~에 해당되다, ~에 들어맞다
+0^go Dutch^각자 내다
+2^make(both) ends meet^빚지지 않고 살다
+2^go by^~에 따라 행동하다,~에 의지하다
+2^go back on one's word^약속을 어기다.
+2^go a long way^큰 도움이 되다, 오래 지속되다
+2^give vent to^터뜨리다, 표출하다,
+2^give a standing ovation^기립 박수를 치다
+2^give out^배포하다, 나눠 주다
+2^give one's right arm^큰 희생을 치르다
+2^give in to^~에 굴복하다
+0^give in^~을 제출하다
+2^make do with^~으로 임시변통하다
+2^give~the cold shoulder^쌀쌀맞게 대하다
+2^give~one's due^~을 공평하게 대하다
+2^give~a wide berth^~을 피하다
+2^give~a ring^~에게 전화하다
+2^give~a lift[ride]^~을 차로 태 주다
+2^give ~a hand^~을 도와주다
+2^get[have] cold feet^겁먹다, 낙담하다
+2^get wind of^~을 풍문으로 듣다
+2^get to first base^전진하다
+2^stick one's nose in^~에 참견하다
+2^get to^~에 도착하다
+2^get through with^~을 끝내다
+2^get the point^요점을 이해하다
+2^get the picture^상황을 이해하다
+2^get the hang of^~의 요령을 터득하다
+2^get the better of^~을 이기다
+2^get the ax^해고당하다
+2^get somewhere^약간의 진전을 보이다.
+1^get over^극복하다, 회복하다
+2^put down^적다
+2^get out of hand^통제를 벗어나다
+2^get one's back up^~을 화나게 하다, 화내다
+2^get on with^~와 사이 좋게 지내다
+2^get in touch with^~와 연락하다
+2^get in one's hair^괴롭히다
+2^get even(with)^(~에게)보복하다
+1^get back^돌아오다
+2^get away with^처벌 없이 지나가다
+2^get at^~에 도착하다, ~을 파악하다
+0^regardless of^~에 상관없이
+2^get around^피하다, 처리하다
+2^get on one's nerves^짜증나게 하다
+2^get along with^~와 잘 지내다
+2^get ahead^출세하다, 성공하다
+2^get across^이해시키다, 설명하다
+2^get a head start^먼저 출발하다
+2^get a grip on^~을 이해하다
+2^get a fix on^~을 이해하다
+2^get ~ wrong^~을 오해하다
+2^all the rage^매우 유행하는
+0^resort to^~에 의지하다, ~에 호소하다
+2^get~off the ground^~을 순조롭게 진행시키다
+2^gear up^준비를 갖추다
+2^gain ground^더 강력해지다, 성공하다
+2^from now on^지금부터
+2^from hand to mouth^하루살이 생활로
+2^fringe benefit^부가 혜택
+2^fret about[over]^~에 대해 걱정하다
+2^fraught with^~으로 가득 찬
+2^forty winks^잠깐의 잠
+2^a surfeit of^과도한, 과다한
+2^ring a bell^들어 본 적이 있는 것 같다
+2^for the time being^당분간
+2^for the life of someone^도저히, 아무리 해도
+2^for one thing^무엇보다도
+2^for nothing^공짜로
+2^for next to nothing^거의 꽁짜로
+2^have yet to^아직 ~하지 못하다
+2^all thumbs^손재주가 없는
+2^all the time^항상
+2^all the same^아무래도 좋은
+2^a slip of the tongue^말실수, 실언
+1^rule out^제외하다, 배제하다
+2^follow suit^선례를 따르다
+2^follow in one's footsteps^~의 뒤를 잇다
+2^flat broke^무일푼의
+2^flare up^확 타오르다, 화내다
+2^fix up^수리하다
+2^fill out ^빈 곳을 채우다, 작성하다
+2^fill in for^~을 대신하다
+2^fend for oneself^자신을 돌보다, </br> fend : 피하다, 저항하다, 부양하다(for)
+2^feel for^~을 동정하다, ~을 더듬어 찾다
+2^a rule of thumb^경험에 근거한 규칙
+2^second to none^누구에게도 뒤지지 않는
+2^feel blue^우울하다
+2^feel at home^마음이 편안하다
+2^feed on^~을 먹이로 하다
+2^far from^결코~이 아닌(그 반대인)
+2^far and away^휠씬, 틀림없는
+2^fall upon^~을 먹기[사용하기] 시작하다
+2^fall out with^~와 다투다[싸우다]
+2^fall into servitude^노예화되다
+2^fall back on^~에 의지하다
+2^a piece of cake^쉬운 일, 식은 죽 먹기
+2^take in^속이다, 이해하다, 받아들이다, 구독하다
+2^face the music^잘못을 인정하다
+2^exert oneself^열심히 노력하다
+2^every inch^어느 모로 보다, 완전히
+2^enter into^~을 시작하다
+2^end up^결국 ~하게 되다
+0^embark on[upon]^~을 착수하다, ~을 시작하다
+2^a trump card^비장의 수단
+2^egg on^선동하다
+2^an edge over[on]^~보다 유리한 점
+2^at rest^움직이지 않는
+2^a pain in the neck^골칫거리
+2^take off^이륙하다, 벗다, 벗기다
+2^eat one's words^한 말을 취소하다
+2^dwell on^심사숙고하다
+2^due to^~때문에
+2^drop out^중퇴하다, 그만두다, 도중하차하다
+2^drop off^내려 주다, 갖다놓다
+2^drop~a line^편지를 쓰다
+2^drive~up a[the] wall^~을 화나게 하다
+2^drive~home^납득시키다, 단단히 박다
+2^drive~crazy^~을 화나게 하다
+2^a mite^약간, 조금
+2^take on^떠맡다, 고용하다, ~을 띠다, ~을 갖다
+2^dressed to kill^멋지게 옷을 입은
+1^dress up^잘 차려입다
+2^dress down^꾸짖다
+2^draw up^문서를 작성하다
+2^draw a blank^실패하다, 허탕치다
+2^drag on^질질 끌다
+2^down in the mouth^낙담한
+2^dog in the manger^심술쟁이
+2^do with^~을 처치하다, ~을 처분하다
+2^a hard nut to crack^다루기 어려운 사람[문제]
+1^take over^인수하다, 떠맡다
+2^do up^수리하다, 채우다, 잠그다
+2^do one's utmost^최선을 다하다
+2^do one's best^최선을 다하다
+2^do away with^~을 없애다
+2^do~a fover^~의 부탁을 들어 주다
+0^dispose of^~을 처분하다, ~을 없애다
+2^dispense with^~없이 지내다
+2^dirt cheap^턱없이 싼, 싸구려의
+0^a handful of^약간의, 소수의
+2^take place^발생하다
+2^dine out^외식하다
+2^destitute of^~이 없는
+1^deprive A of B^A로부터 B를 빼앗다
+0^deal with^~을 다루다, ~을 처리하다
+2^day in and day out^언제나
+2^cutting edge^최첨단
+2^cut off^베어내다, 중단하다
+2^cut no ice(with)^(~에게)효과가 없다
+2^cut down(on)^(~을)줄이다
+2^a good mixer^사교술이 좋은 사람
+2^take up^착수하다, 시작하다, 차지하다
+2^cut corners^지름길로 가다, 절약하다
+2^cut~to the quick^~에게 깊은 상처를 주다
+2^cut~dead^~을 못 본 체하다
+2^culminate in^~으로 끝이 나다
+2^cross one's mind^(생각이)떠오르다
+2^crack a joke^농담하다
+1^count on^~에게 의지하다, ~을 믿다
+2^cost a pretty penny^많은 돈이 들다
+2^cost a fortune^비싼 값을 치르다
+2^a drop in the bucket^아주 적은 양, 새발의 피
+2^turn a blind eye to^~을 못 본 척하다
+0^correspond with^~와 일치하다, ~와 서신을 주고받다
+0^correspond to^~와 일치하다, ~에 상응하다
+**4
+1^cope with^~을 극복하다, ~에 대처하다
+1^cool one's heels^오래 기다리다
+1^cook one's goose^망쳐놓다
+1^contrary to^~에 반하여
+1^have other[bigger] fish to fty^해야 할 더 중요한 일이 있다
+1^consist of^~으로 구성되다
+0^comply with^~에 순응하다
+1^a couple of^두세 개의
+1^turn down^거절하다
+0^compensate for^~을 보상하다
+1^come upon^~을 우연히 발견하다[만나다]
+1^come up to^~에 필적하다
+1^come up against^~에 직면하다
+1^come to the fore^표면화되다
+1^come to terms with^~을 받아들이는 법을 배우다, ~와 타협하다
+1^come to nothing^소용없다, 수포로 돌아가다
+1^come to light^밝혀지다, 알려지다
+1^come to life^의식을 되찾다, 활기를 띠다
+1^a chip off the old block^부전자전
+1^turn in[into]^제출하다
+1^come to blows^싸우다
+1^come to an end^끝나다
+1^come to^정신이 들다, 결국 ~가 되다
+1^come naturally to^~에게는 쉽다
+1^come into view[sight]^보이기 시작하다
+1^come into one's own^역량을 발휘하다
+1^come into effect^실시되다, 발효되다
+1^come into being^생기다, 태어나다
+1^come into^물려받다, ~에 가입하다
+1^a bone of contention^분쟁의 원인, 논란거리
+1^be up to one's eyes[ears] in^~에 몰두하다
+1^come home to^~의 가슴에 와 닿다
+1^come close to^거의 ~하게 되다
+1^come by^얻다, 들르다
+1^come between^이간질하다
+1^close call^위기일발
+1^clear one's throat^헛기침을 하다
+1^clear away^치우다, 제거하다
+1^check up^조사하다
+1^chain smoker^줄담배 피우는 사람
+1^(just) around the corner^임박하다
+1^wet behind the ears^미숙한, 풋내기의
+1^catch on^인기를 얻다, 유행하다
+1^catch a glimpse of^~을 흘끗 보다
+0^cast doubt on^~을 의심하다
+1^cash in on^~을 이용하다
+1^carry out^수행하다, 완수하다
+1^carry away^흥분시키다, 가져가 버리다
+1^care for^~을 돌보다
+1^cannot~too^아무리~해도 지나치지 않다
+1^call the roll^출석을 부르다
+1^(as) fit as a fiddle^건강한, 탄탄한
+1^with regard to^~에 관하여
+1^call on^방문하다
+1^call off^취소하다
+1^ahead of^~보다 먼저, ~보다 앞서
+1^call down^~을 꾸짖다
+1^call at^~을 방문하다
+1^call a spade a spade^사실대로 말하다
+1^call~names^~을 욕하다, 험담하다
+1^by the skin of one's teeth^간신히
+1^by the book^원칙대로, 정식으로
+1^all over^모든 면에서
+1^zero in on^~에 집중하다
+1^by all means^반드시, 아무렴
+1^by hook or by crook^무슨 짓을 해서라도
+1^by halves^불완전하게, 어중간하게
+1^by dint of^~에 의해서, ~의 덕분에
+1^by and large^일반적으로, 대체로
+1^by no means^결코~ 아닌
+1^button up^단추를 꼭 채우다
+1^burn the midnight oil^밤새 공부하다,
+1^bring out^발휘하다, 나타내다
+1^all of a sudden^갑자기
+1^walk on air^아주 기뻐하다
+1^bring~to light^~을 밝히다
+1^bring~to an end^~을 끝내다
+1^break up^해산시키다
+1^break the news^(좋지 않은) 소식을 전하다
+1^break the ice^어색한 분위기를 깨다
+0^break out^발생하다
+1^break off^중단하다, 멈추다
+1^put aside^무시하다, 저축하다, 비워두다
+1^get one's feet wet^해보다, 시작하다
+1^all in all^대체적으로
+1^go off^음식이 상하다, 나빠지다
+1^break even^이익도 손해도 안 보다
+0^break down^고장나다, 파괴하다, 실패하다
+1^box up^상자에 채우다
+1^bone up(on)^(~을)열심히 공부하다
+1^boil down to^결국 ~이 되다
+1^make(out) a case^주장을 하다
+1^blow one's own horn[trumpet]^자랑하다, 떠벌리다
+1^black sheep^말썽꾼, 약한, 망나니
+0^black out^의식을 잃다
+1^all but^거의
+1^trade on^(부당하게)~을 이용하다
+1^black eye^눈 주의 검은 멍, 불명에
+1^bite the bullet^어려움을 감내하다
+1^beyond the pale^용인될 수 없는</br> pale 창백한
+1^beyond one's control^통제 수준을 넘어선
+1^beware of^~을 주의하다, ~을 조심하다
+1^better off^형편이 더 나은
+1^beside the point^요점을 벗어난
+1^behind the times^시대에 뒤진
+1^behind (the)bars^옥중에서
+1^all at once^한꺼번에, 갑자기
+1^take down^적어 두다, 무너뜨리다
+1^before long^머지않아
+1^beef up^강화하다, 보강하다
+1^beat around the bush^둘러서 말하다
+1^beat about^둘러서 말하다
+1^bear a grudge^원한을 품다
+0^be willing to^기꺼이~하다
+1^be up to^~에게 달려 있다
+1^be true of^~에 적용되다
+1^be tied up^바쁘다
+1^agree on^~에 동의하다
+1^on a shoestring^쥐꼬리만한 돈으로, 돈을 아주 적게 쓰는
+1^take by surprise^기습 공격을 하다
+1^be suspicious of^~을 의심하다
+1^make up one's mind^결심하다, 단호히 대처하다
+1^be survived by^~보다 먼저 죽다
+1^be subject to^~의 영향을 받기 쉽다
+1^be snowed under(with)^(많은 일에)압도되다
+1^be set against^~에 반대하다
+1^be rapt in^~에 열중해 있다
+1^be poor at^~에 서투르다</br>poor : 가난한
+1^against the grain^순리에 어굿나는, 비위에 거슬리는
+0^off the hook^자유로운, 의무에서 벗어난
+1^be played out^기진맥진하다
+1^be open to^~을 받기 쉽다
+1^be one's age^~와 동갑이다, 나이에 걸맞게 행동하다
+1^be obligated to^~할 의미가 있다, ~하지 않을 수가 없다
+1^be noted for^~로 유명하다
+1^be likely to^~하기 쉽다, ~할 것 같다
+1^be laid up^몸져눕다
+1^be know by^~으로 알 수 있다
+1^be involved in^~에 관여하다, ~에 연루되다
+1^add up^이해가 되다, 말이 되다
+1^make up to^~에게 아첨하다
+1^be interested in^~에 관심이 있다
+0^be inclined to^~하는 경향이 있다
+1^be in line with^~와 일치하다, ~의 생각에 동의하다
+1^be hard up for^~이 쪼들리다, ~이 궁색하다
+1^be hard on^~에게 모질게 대하다
+1^be goof at^~에 능숙하다
+1^be geared to^~에 맞추어지다
+1^be fed up with^~에 질리다, ~에 싫증나다
+1^be familiar with^~에 익숙하다, ~을 잘 알고 있다
+1^across the board^전반적으로, 종합적으로
+1^make over^양도하다,~을 고치다
+1^ba faced with^~에 직면하다
+1^be entitled to^~의 자격이 있다
+1^be engrossed in^~에 열중하다
+1^be engaged in^~에 중시하다
+1^be eligible to[for]^~할 자격이 있다
+1^be dissatisfied with^~에 불만족하다
+1^be cut out for^~에 적임이다
+1^be credited to^~의 덕택이다
+1^be crazy about^~에 열중하다
+1^make a point of^중시하다, 반드시 ~하다
+1^be consonant with^~와 일치하다
+0^be conscious of^~을 의식하고 있다
+1^be concerned with^~에 관심을 갖다
+1^be concerned about^~에 대해 걱정하다
+1^be broke^가진 돈이 없다
+1^be bound to^~하지 않을 수 없다
+1^be bent on^~에 열중하다
+1^be based on^~에 근거하다
+1^be at home in^~에 대해 잘 알고 있다.
+1^double-cross^배반하다, 배신하다
+1^down-and-out^가난한
+1^accuse A of B^A를 B라고 비난하다
+1^lapse into^~에 빠지다
+0^be apt to^~하기 쉽다
+1^be appreciative of^~에 감사하다
+1^be acquainted with^~을 잘 알고 있다
+1^be accustomed to^~에 익숙해지다
+1^bark up the wrong tree^헛물켜다
+1^bail out^~을 구하다</br>bail 보석금을 주다
+1^back-seat driver^참견을 잘하는 사람
+1^avail oneself of^~을 이용하다</br> avail : 도움이 되다
+1^at will^마음대로
+0^according to^~에 따라,~에 따르면
+1^in no way^어떤 점에서도 (결코)~ 아니다
+1^at the risk of^~의 위험을 무릅쓰고
+1^at the eleventh hour^막판에
+1^at random^무작위로
+1^at one's finger'ends^~에 정통한
+1^at one's disposal^마음대로 할 수 있는
+1^at once Aand B^A이기도 하고 B이기도 한
+1^at odds(with)^(~와)의견이 다른, 불화하여, 사이가 좋지 못한
+1^at length^마침내
+1^at every turn^언제나, 어디에서나
+1^above one's head^이해하기 힘든
+1^hit the sack^잠을 자다
+1^at a low ebb^쇠퇴기인
+1^at a loss^당황하여
+1^aside from^~을 제외하고
+1^as per^~에 따라
+1^as luck would have it^우연히도, 다행스럽게도
+1^as like as two peas^꼭 닮은
+1^as good as one's word^약속을 지키는
+1^as deaf as a post^귀가 들리지 않은
+1^as a rule^일반적으로
+1^abandon oneself to^~에 빠지다</br>abandon : 버리다
+1^go under^파산하다, 가라앉다
+1^as a result of^~의 결과로
+1^as a matter of fact^사실
+1^as a last resort^최후의 수단으로
+1^around[round] the clock^24시간 내내
+1^approve of^~을 승인하다, ~을 찬성하다
+1^answer for^~에 책임을 지다
+1^an old hand^경험이 많은 사람
+1^amount to^총 ~가 되다
+1^allowing for^~을 참작하면
+1^rest on^~에 달려있다
+1^rest with^~에 달려있다
+1^be up to^~에 달려있다
+1^have enough of^~에 질리다
+1^hit the ground running^잘 나가다
+1^between jobs^실직 상태인, 구직 중인

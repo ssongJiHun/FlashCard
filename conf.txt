@@ -1,0 +1,5 @@
+( ChapterName / FileUrl / Partition / wrongFiliter / Mark / Subtitle)
+전체/1_total.txt/1/0/🌴종합
+숙어/idiom.txt/1/2
+기본수능/1_high.txt/1/0/💕기본수능
+한국사/3.txt/1/1

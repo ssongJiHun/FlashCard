@@ -1,0 +1,170 @@
+<style type="text/css">
+    html,
+    body {
+        width: 99%;
+        height: 98%;
+    }
+
+    textarea {
+        background: #34495E;
+        color: #fff;
+        padding: 20px;
+    }
+</style>
+<html>
+
+<head>
+    <title>Admin</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+    <script src="http://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="res/admin/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="res/admin/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="res/admin/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="res/admin/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="res/admin/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="res/admin/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="res/admin/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="res/admin/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="res/admin/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="res/admin/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="res/admin/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="res/admin/favicon-16x16.png">
+    <meta name="theme-color" content="#ffffff">
+    <script src="js/login.js"></script>
+</head>
+<script type="text/javascript">
+    $(document).ready(setup); // 1번
+    function setup() {
+         // $("#id option:eq(0)").prop("selected", true);
+
+        $.get('php\\include.php?mode=getchapter', function (res) {
+            $("#chapterSelBox").find("option").remove();
+            $("#chapterSelBox").append(res);
+        });
+        $("#chapterSelBox").focus();
+
+        $.get('php\\include.php?mode=getconfstring', function (res) {
+            $("#conf_area").val(res);
+        });
+
+        let ctrl = false;
+        $('#conf_area').on('keydown', function () {
+            if (event.keyCode == 17) { // ctrl
+                ctrl = true;
+                return;
+            } else if (event.keyCode == 83) { // ctrl
+                event.preventDefault();
+                event.stopPropagation();
+                saveConf();
+            }
+            ctrl = false;
+        });
+    }
+    function getBranchSelBox() {
+        var x = document.getElementById("chapterSelBox").selectedIndex;
+        var y = document.getElementById("chapterSelBox").options;
+        var chapterSelBoxIndex = y[x].index;
+
+        if (chapterSelBoxIndex == null || chapterSelBoxIndex == 0)
+            return;
+
+        $.get('php\\include.php?mode=getbranch&csi=' + chapterSelBoxIndex + '&pv=1', function (res) {
+            $("#branchSelBox").find("option").remove();
+            $("#branchSelBox").append(res);
+        });
+    }
+    function onChapterAdd(input) {
+        if (confirm("새로운 클래스(챕터)를 생성하시겠습니까?")) {
+            var inputString = prompt("( ChapterName / FileUrl / Partition / wrongFiliter / Mark / Subtitle)", input);
+            if (inputString == null || inputString == '')
+                return;
+            // conf, txt
+            $.get('php\\include.php?mode=addchapter&input=' + inputString, function (res) {
+                if (res == 'overlap') {
+                    alert('파일이름 중복');
+                    onChapterAdd(inputString);
+                } else {
+                    alert(res);
+                    location.reload();
+                }
+            });
+        }
+    }
+    function onChapterModify() {
+        var chapterSelBoxVal = $('#chapterSelBox').val(); // selected
+        if (chapterSelBoxVal == 0) {
+            alert("챕터를 선택하세요");
+            return;
+        }
+        location.href = "modify.html?" + chapterSelBoxVal;
+    }
+    function onBranchAppend() {
+
+        var branchName = $("#branchSelBox option:selected").text();
+        var chapterName = $("#chapterSelBox option:selected").text();
+        var branchSelBox = $('#branchSelBox').val(); // selected index
+        var chapterSelBoxVal = $('#chapterSelBox').val(); // seledted fileName 
+
+        if (chapterSelBoxVal == 0) {
+            alert("챕터를 선택하세요");
+            return;
+        }
+
+        if (branchSelBox == 0) {
+            if (confirm("<" + chapterName + ">에 새로운<branch>를 생성할래?")) {
+                var inputString = prompt('새로운 <branch>를 쓰세요.**', '');
+                if (inputString == null || inputString == '')
+                    return;
+                // 생성코드
+                $.get('php\\include.php?mode=addbranch&csi=' + chapterSelBoxVal + "&input=" + inputString, function (res) {
+                    alert(res);
+                    location.reload();
+                });
+            }
+        } else if (confirm("<" + chapterName + ">-<" + branchName + ">에 추가할래?")) {
+            location.href = "append.html?" + chapterSelBoxVal + "&" + branchSelBox + "&" + encodeURI(chapterName, "UTF-8") + "&" + encodeURI(branchName, "UTF-8");
+        }
+    }
+    
+    function saveConf() {
+        $.post('php\\include.php', { "mode": "saveconfstring", "input": $('#conf_area').val() }, function (res) {
+            alert(res);
+            if (res == "저장완료")
+                location.reload();
+        });
+    }
+</script>
+</head>
+
+<body>
+    <center><br><br><br>
+        <h1>Admin</h1>
+        <table style="width: 60%;">
+            <tr>
+                <td>
+                    <select id="chapterSelBox" tabindex="1" onchange="getBranchSelBox()" style="width: 100%;">
+                        <option value="0">선택해주세요 </option>
+                    </select>
+                </td>
+                <td><button onclick="onChapterAdd('')" style="width: 100%;">+</button></td>
+                <td><button onclick="onChapterModify()" style="width: 100%;">✔</button></td>
+            </tr>
+            <tr>
+                <td>
+                    <select id="branchSelBox" tabindex="3" style="width: 100%;">
+                        <option value="0">선택해주세요 </option>
+                    </select>
+                </td>
+                <td><button onclick="onBranchAppend()" style="width: 100%;">+</button></td>
+            </tr>
+        </table>
+        <br><br>
+    </center>
+    <textarea id="conf_area" style="resize: none; font-size: x-large; width: 100%;" rows="10" tabindex="-1"
+        spellcheck="false"></textarea>
+    <input type="button" value="설정저장" onclick="saveConf()">
+</body>
